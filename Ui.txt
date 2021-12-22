@@ -1,0 +1,483 @@
+Loc_UI_Menus_GameOver_LivesRemaining: Lives Remaining:
+Loc_UI_Menus_GameOver_Retry: Retry
+Loc_UI_Menus_GameOver_Title: Game Over
+Loc_UI_Menus_Options_Subtitles: Subtitles
+Loc_UI_Menus_Pause_MainMenu: Main Menu
+Loc_UI_Menus_Pause_Resume: Resume
+Loc_UI_Menus_Pause_Title: Pause
+Loc_UI_General_Options: Options
+Loc_UI_Menus_SaveGame_Slots_ExistingSlots: Existing Slots
+Loc_UI_Menus_SaveGame_Slots_NewSlot: New Slot
+Loc_UI_Menus_SecurityOfficePower_TimeRemaining: Time Remaining:
+Loc_UI_Menus_SurvivalScore_Gold: Gold
+Loc_UI_Menus_SurvivalScore_Green: Green
+Loc_UI_Menus_SurvivalScore_Pink: Pink
+Loc_UI_Menus_SurvivalScore_Purple: Purple
+Loc_UI_Menus_SurvivalScore_Red: Red
+Loc_UI_Menus_SurvivalScore_TotalScore: Total Score
+Loc_UI_Menus_SurvivalScore_Yellow: Yellow
+Loc_UI_Menus_Title_Continue_Question: Continue from most recent save?
+Loc_UI_Menus_Title_Minigames_BalloonBoy: Balloon Boy
+Loc_UI_Menus_Title_Minigames_Bowling: Bowling
+Loc_UI_Menus_Title_Minigames_Cabinet01: Mini Golf Cabinet 1
+Loc_UI_Menus_Title_Minigames_Cabinet02: Mini Golf Cabinet 2
+Loc_UI_Menus_Title_Minigames_ChicaFeedingFrenzy: Chica Feeding Frenzy
+Loc_UI_Menus_Title_Minigames_FazerBlast: Fazer Blast
+Loc_UI_Menus_Title_Minigames_MiniGolf_Complete: Mini Golf Full
+Loc_UI_Menus_Title_Minigames_PrincessQuest_Act01: Princess Quest Act 1
+Loc_UI_Menus_Title_Minigames_PrincessQuest_Act02: Princess Quest Act 2
+Loc_UI_Menus_Title_Minigames_PrincessQuest_Act03: Princess Quest Act 3
+Loc_UI_Menus_Title_NewGame_Question: Are you sure you want to start a new game?
+Loc_UI_Menus_Title_Root_Button_CharacterGallery: Character Gallery
+Loc_UI_Menus_Title_Root_ContinueGame: Continue Game
+Loc_UI_Menus_Title_Root_LoadGame: Load Game
+Loc_UI_Menus_Title_Root_Minigames: Minigames
+Loc_UI_Menus_Title_Root_NewGame: New Game
+Loc_UI_Menus_Title_Root_OfficeGames: Office Games
+Loc_UI_General_Quit: Quit
+Loc_UI_General_Yes: Yes
+Loc_UI_Menus_Title_Survival_Difficulty: Difficulty
+Loc_UI_Menus_Title_Survival_Difficulty_Choice01: Easy
+Loc_UI_Menus_Title_Survival_Difficulty_Choice02: Med
+Loc_UI_Menus_Title_Survival_Difficulty_Choice03: Nightmare
+Loc_UI_Menus_Title_Survival_Difficulty_HourLength: Hour Length
+Loc_UI_Menus_Title_Survival_Lives: Lives
+Loc_UI_Menus_Title_Survival_Lives_Choice03: Infinite
+Loc_UI_Menus_Title_Survival_SpawnPossibleLocations: Spawn All Possible Locations
+Loc_UI_General_Exit: Exit
+Loc_UI_Menus_Victory_YouWin: You Win!
+Loc_UI_Menus_Options_General: General
+Loc_UI_Menus_Options_Controls: Controls
+Loc_UI_Menus_Options_Video: Video
+Loc_UI_Menus_Options_Resolution: Resolution
+Loc_UI_Menus_Options_WindowMode: Window Mode
+Loc_UI_Menus_Options_Reticle: Reticle
+Loc_UI_Menus_Options_MasterVolume: Master Volume
+Loc_UI_Menus_Options_VoiceVolume: Voice Volume
+Loc_UI_Menus_Options_MusicVolume: Music Volume
+Loc_UI_Menus_Options_JumpscareVolume: Jumpscare Volume
+Loc_UI_Menus_Options_SFXVolume: SFX Volume
+Loc_UI_Menus_Options_PlaybackDevice: Playback Device
+Loc_UI_Menus_Options_ColorBlindOptions: Color Blind Options
+Loc_UI_Menus_Options_GraphicsQuality: Graphics Quality
+Loc_UI_Menus_Options_Contrast: Contrast
+Loc_UI_Menus_Options_Brightness: Brightness
+Loc_UI_Menus_Options_RayTracing: Ray Tracing
+Loc_UI_Menus_Options_Antialias: Antialias
+Loc_UI_Menus_Options_InvertYAxis: Invert Y-Axis
+Loc_UI_General_Start: Start
+Loc_UI_Menus_Title_Delete: Delete
+Loc_UI_Menus_Title_SurvivalMode: Survival Mode
+Loc_UI_Menus_Title_Rename: Rename
+Loc_UI_Menus_Title_NewSlot: New Slot
+Loc_UI_FazWatch_Icon_Camera_Name: NAME
+Loc_UI_FazWatch_Inventory_Tabs_Collectables: Collectables
+Loc_UI_FazWatch_Inventory_Tabs_Equipment: Equipment
+Loc_UI_FazWatch_Master_Tabs_Cameras: Cameras
+Loc_UI_FazWatch_Master_Tabs_Missions: Missions
+Loc_UI_FazWatch_Master_Tabs_Map: Map
+Loc_UI_FazWatch_Messages_Header_NoMessages: No Messages
+Loc_UI_FazWatch_Missions_NoMissions: No Missions
+Loc_UI_FazWatch_Notes_Tabs_Notes: Notes
+Loc_UI_FazWatch_Notification_PressFazwatch: Press <btn id="Fazwatch"/>
+Loc_UI_FazWatch_SecurityCameras_Cam: CAM
+Loc_UI_FazWatch_SecurityCameras_Name: Name
+Loc_UI_HUD_ControlsDisplay_Controls_CallFreddy: Call Freddy: <btn id="CallFreddy"/>
+Loc_UI_HUD_ControlsDisplay_Controls_Crouch: Crouch: <btn id="Crouch"/>
+Loc_UI_HUD_ControlsDisplay_Controls_Flashlight: Use Flashlight: <btn id="Flashlight"/>
+Loc_UI_HUD_ControlsDisplay_Controls_Full: Use Flashlight: <btn id="Flashlight"/>  Call Freddy: <btn id="CallFreddy"/>  Crouch: <btn id="Crouch"/>  Sprint: <btn id="Run"/>
+Loc_UI_HUD_ControlsDisplay_Controls_Sprint: Sprint: <btn id="Run"/>
+Loc_UI_HUD_CurrentMission_KeepAwayFromMonty: Keep Away From Monty!
+Loc_UI_HUD_Freddy_Menu_Cameras: Cameras
+Loc_UI_HUD_Freddy_Menu_Eject: Eject
+Loc_UI_HUD_Freddy_Menu_Menu: Menu
+Loc_UI_HUD_Mission_NewMission: New Mission
+Loc_UI_HUD_Player_AnyButtonSkip: Press any button to skip
+Loc_UI_HUD_Player_OutOfStamina: Out of Stamina
+Loc_UI_General_No: No
+Loc_UI_FazWatch_Notes_Tabs_Inbox: Inbox
+Loc_UI_Menus_Options_Accessibility: Accessibility
+Loc_UI_Menus_Options_Language: Language
+Loc_UI_HUD_Cinematics_SkipCutscene: <btn id="skip"/>: Skip Cutscene
+Loc_UI_Menus_OptionsControls_InvertYAxis: Invert Y-Axis
+Loc_UI_Menus_OptionsControls_Mouse: Mouse
+Loc_UI_Menus_OptionsControls_Sensitivity: Sensitivity
+Loc_UI_Menus_OptionsControls_Controller: Controller
+Loc_UI_Menus_OptionsControls_HorizontalSensitivity: Horizontal Sensitivity
+Loc_UI_Menus_OptionsControls_VerticalSensitivity: Vertical Sensitivity
+Loc_UI_Menus_OptionsControls_HapticSensitivity: Haptic Sensitivity
+Loc_UI_Menus_OptionsControls_Gamepad: Gamepad
+Loc_UI_Menus_SaveGame_SaveQuestion: Overwrite your most recent save?
+Loc_UI_Message_MessageDetails: Entrance will open at 6 A.M.
+Loc_UI_HUD_NewGameCinematic_HoldtoSkip: Hold <btn id="interact"/>: To Skip
+Loc_UI_HUD_Staffbot_WarningMessage: WARNING: Staff bot leaving designated area!
+Loc_UI_HUD_KitchenOffice_EmergencyLockdown: Emergency Lockdown!
+Loc_UI_HUD_PrizeCounter_EmergencyLockdown: Emergency Lockdown!
+Loc_UI_HUD_Staffbot_WrongOrderText: That's not how you make a pizza!
+Loc_UI_HUD_Backstage_EmergencyLockdown: Emergency Lockdown!
+Loc_UI_HUD_PrizeCounter_DoorPower: Door Power
+Loc_UI_HUD_EULA_Accept: Accept
+Loc_UI_HUD_Header_NewMessages: New Messages
+Loc_UI_HUD_Header_ReadMessages: Read Messages
+Loc_UI_Menus_InvertControls_Question: Invert Controls?
+Loc_UI_HUD_Mission_MissionUpdated: Mission Updated
+Loc_UI_HUD_Mission_MissionCompleted: Mission Completed
+Loc_UI_HUD_Mission_Header_Mission: Mission
+Loc_UI_HUD_Kitchen_Staffbot_DoorPower: Door Power
+Loc_UI_HUD_Player_UsedPartyPass: Used a party pass!  {NumPartyPasses} Party {NumPartyPasses}|plural(one=Pass, other=Passes) remain
+Loc_UI_HUD_Player_PartyPass: {NumPartyPasses} Party {NumPartyPasses}|plural(one=Pass, other=Passes)
+Loc_UI_FazWatch_Messages_Header_Message01: Message 01
+Loc_UI_FazWatch_Back_Format: < {0}
+Loc_UI_General_Back: Back
+Loc_UI_Menus_Options_OPTIONS: OPTIONS
+Loc_UI_Menus_Options_Audio: Audio
+Loc_UI_Menus_Options_VIDEO: VIDEO
+Loc_UI_Menus_Options_Gamma: Gamma
+Loc_UI_Menus_Options_AUDIO: AUDIO
+Loc_UI_Menus_Options_ColorBlindSeverity: Color Blind Severity
+Loc_UI_Menus_Options_GENERAL: GENERAL
+Loc_UI_Menus_OptionsControls_Jump: Jump
+Loc_UI_Menus_OptionsControls_Sprint: Sprint
+Loc_UI_Menus_OptionsControls_Interact: Interact
+Loc_UI_Menus_OptionsControls_Stealth: Stealth
+Loc_UI_Menus_OptionsControls_CallFreddy: Call Freddy
+Loc_UI_Menus_OptionsControls_SwitchItems: Switch Items
+Loc_UI_Menus_OptionsControls_UseHeldItem: Use Held Item
+Loc_UI_Menus_OptionsControls_Move: Move
+Loc_UI_HUD_ExitPopUp_ExitConfirmationText: Are you sure you want to quit?
+Loc_UI_HUD_ExitPopUp_ExitQuestion: Exit to Desktop?
+Loc_UI_Menus_SplashScreen_PressAnything: Press Anything
+Loc_UI_Menus_Title_Play: Play
+Loc_UI_Menus_Title_Extras: Extras
+Loc_UI_Fazwatch_Map_Main: Groundfloor
+Loc_UI_Fazwatch_Map_Floor01: Floor 01
+Loc_UI_Fazwatch_Map_Floor02: Floor 02
+Loc_UI_Fazwatch_Map_Floor03: Floor 03
+Loc_UI_Fazwatch_Map_FloorB1: Floor B1
+Loc_UI_Fazwatch_Map_FloorB2: Floor B2
+Loc_UI_Fazwatch_Map_Legend: Legend
+Loc_UI_Fazwatch_Map_ChargingStation: Charging Station
+Loc_UI_Fazwatch_Map_FreddysLocation: Freddy's Location
+Loc_UI_Fazwatch_Map_Stairs: Stairs
+Loc_UI_Fazwatch_Map_LockedArea: Locked Area
+Loc_UI_Fazwatch_Map_LockedAreaPartyPass: Locked Area: Party Pass
+Loc_UI_FazWatch_Master_Tabs_Messages: Messages
+Loc_UI_Cameras_Daycare_Bathrooms: Bathrooms
+Loc_UI_Cameras_Daycare_Entrance: Entrance
+Loc_UI_Cameras_Daycare_Gifts: Gifts
+Loc_UI_Cameras_Daycare_Room1: Room1
+Loc_UI_Cameras_Daycare_Room2: Room2
+Loc_UI_Cameras_Daycare_Room3: Room3
+Loc_UI_Cameras_Daycare_Room4: Room4
+Loc_UI_Cameras_Daycare_Main: Main
+Loc_UI_Cameras_Daycare_Security: Security
+Loc_UI_Cameras_Daycare_Maze3: Maze3
+Loc_UI_Cameras_Daycare__Maze2: Maze2
+Loc_UI_Cameras_Daycare_Maze1: Maze1
+Loc_UI_Cameras_Daycare_Outside: Outside
+Loc_UI_Cameras_Daycare_Theater: Theater
+Loc_UI_Cameras_Daycare_Lobby: Lobby
+Loc_UI_Cameras_Daycare_Stairwell: Stairwell
+Loc_UI_Cameras_Daycare_Maze2: Maze2
+Loc_UI_Cameras_MainLobby_Main: Main
+Loc_UI_Cameras_MainLobby_Entrance: Entrance
+Loc_UI_Cameras_MainLobby_Gifts_Lower: Gifts_Lower
+Loc_UI_Cameras_MainLobby_Gifts_Upper: Gifts_Upper
+Loc_UI_Cameras_MainLobby_Office: Office
+Loc_UI_Cameras_MainLobby_Gates: Gates
+Loc_UI_Cameras_MainLobby_CS_Lower: CS_Lower
+Loc_UI_Cameras_MainLobby_CS_Upper: CS_Upper
+Loc_UI_Cameras_MainLobby_Utility: UtilityExit
+Loc_UI_Cameras_MainLobby_SE: SE
+Loc_UI_Cameras_MainLobby_SW: SW
+Loc_UI_Cameras_MainLobby_NE: NE
+Loc_UI_Cameras_MainLobby_NW: NW
+Loc_UI_Cameras_Utilidoors_Hall2: Hall2
+Loc_UI_Cameras_Utilidoors_Hall1: Hall1
+Loc_UI_Cameras_Utilidoors_Office: Office
+Loc_UI_Cameras_Utilidoors_Utility: Utility
+Loc_UI_HUD_FreddyOverlay_LowPower: Low Power
+Loc_UI_HUD_Backstage_DoorPower: Door Power
+Loc_UI_Menus_Options_Shading: Shading
+Loc_UI_Menus_Title_Credits: Credits
+Loc_UI_Menus_Title_DLC: DLC
+Loc_UI_Menus_Options_Shadows: Shadows
+Loc_UI_Menus_Options_InstructionCards: Instruction Cards
+Loc_UI_Menus_Options_ViewDistance: View Distance
+Loc_UI_Menus_Options_Effects: Effects
+Loc_UI_Menus_OptionsControls_Fazerblaster: Fazerblaster
+Loc_UI_Menus_OptionsControls_Flashlight: Flashlight
+Loc_UI_Menus_OptionsControls_Fazwatch: Fazwatch
+Loc_UI_Menus_PartsandServices_PowerUpgrade: Power Upgrade
+Loc_UI_Menus_PartsandServices_MontyUpgrade: Claws Upgrade
+Loc_UI_Menus_PartsandServices_ChicaUpgrade: Voicebox Upgrade
+Loc_UI_Menus_PartsandServices_RoxyUpgrade: Ocular Upgrade
+Loc_UI_HUD_PSUpgradeFreddy_YellowWire: <btn id="FaceButtonUp"/> Yellow Wire
+Loc_UI_HUD_PSUpgradeFreddy_GreenWire: <btn id="FaceButtonDown"/> Green Wire
+Loc_UI_HUD_PSUpgradeFreddy_BlueWire: <btn id="FaceButtonLeft"/> Blue Wire
+Loc_UI_HUD_PSUpgradeFreddy_RedWire: <btn id="FaceButtonRight"/> Red Wire
+Loc_UI_Menus_Pause_Messages: Messages
+Loc_UI_Menus_Pause_Inventory: Inventory
+Loc_UI_Menus_SaveGame_ChooseAnotherSlot: Choose another save slot
+Loc_UI_Menus_SaveGame_OverwriteSlot: Are you sure you want to overwrite this save?
+Loc_UI_Cameras_EastArcade_EArcade1: EArcade1
+Loc_UI_Cameras_EastArcade__EArcade2: EArcade2
+Loc_UI_Cameras_EastArcade_EArcade3: EArcade3
+Loc_UI_Cameras_EastArcade_EArcade4: EArcade4
+Loc_UI_Cameras_EastArcade_EArcade5: EArcade5
+Loc_UI_Cameras_EastArcade_EArcade6: EArcade6
+Loc_UI_Cameras_EastArcade_EArcade7: EArcade7
+Loc_UI_Cameras_EastArcade_EArcade8: EArcade8
+Loc_UI_Cameras_EastArcade_EArcade9: EArcade9
+Loc_UI_Cameras_EastArcade_EArcade10: EArcade10
+Loc_UI_Cameras_EastArcade_EArcade11: EArcade11
+Loc_UI_Cameras_EastArcade_EArcade12: EArcade12
+Loc_UI_Cameras_EastArcade_EArcade13: EArcade13
+Loc_UI_Cameras_EastArcade_EArcade14: EArcade14
+Loc_UI_Cameras_EastArcade_El_Chips01: El_Chips01
+Loc_UI_Cameras_EastArcade_El_Chips2: El_Chips2
+Loc_UI_Cameras_EastArcade_PrizeNorth: PrizeNorth
+Loc_UI_Cameras_EastArcade_PrizeBack1: PrizeBack1
+Loc_UI_Cameras_EastArcade_PrizeNE: PrizeNE
+Loc_UI_Cameras_EastArcade_PrizeMiddle: PrizeMiddle
+Loc_UI_Cameras_EastArcade_PrizeSE: PrizeSE
+Loc_UI_Cameras_EastArcade_PrizeElevator: PrizeElevator
+Loc_UI_Cameras_EastArcade_PrizeSW: PrizeSW
+Loc_UI_Cameras_EastArcade_PrizeNW: PrizeNW
+Loc_UI_Cameras_StageArea_MainSouth: MainSouth
+Loc_UI_Cameras_StageArea_RoxyNW: RoxyNW
+Loc_UI_Cameras_StageArea_MainWest: MainWest
+Loc_UI_Cameras_StageArea_MainSW: MainSW
+Loc_UI_Cameras_StageArea_Food2: Food2
+Loc_UI_Cameras_StageArea_MainNorth: MainNorth
+Loc_UI_Cameras_StageArea_GatorGolf: GatorGolf
+Loc_UI_Cameras_StageArea_MazercizeLobby: MazercizeLobby
+Loc_UI_Cameras_StageArea_Mazercize: Mazercize
+Loc_UI_Cameras_StageArea_GatorEntrance: GatorEntrance
+Loc_UI_Cameras_StageArea_2ndFloorHall: 2ndFloorHall
+Loc_UI_Cameras_StageArea_KidsCove: KidsCove
+Loc_UI_Cameras_StageArea_MainSE2: MainSE2
+Loc_UI_Cameras_StageArea_MainSE: MainSE
+Loc_UI_Cameras_StageArea_MainEast: MainEast
+Loc_UI_Cameras_StageArea_MainEastLvl1: MainEastLvl1
+Loc_UI_Cameras_StageArea_Entrance: Entrance
+Loc_UI_Cameras_StageArea_Dining: Dining
+Loc_UI_Cameras_StageArea_MainStage: MainStage
+Loc_UI_Cameras_StageArea_Roxy1: Roxy1
+Loc_UI_Cameras_StageArea_MainNW: MainNW
+Loc_UI_Menus_Inventory_Equipment: Equipment
+Loc_UI_Menus_Inventory_Food: Food
+Loc_UI_Menus_Inventory_Clothes: Clothes
+Loc_UI_Menus_Inventory_Trophies: Trophies
+Loc_UI_Menus_Inventory_Misc: Misc
+Loc_UI_Cameras_EastArcade_PrizeBack2: PrizeBack2
+Loc_UI_Cameras_EastArcade_OfficeSE: OfficeSE
+Loc_UI_Cameras_EastArcade_OfficeNE: OfficeNE
+Loc_UI_Cameras_EastArcade_EArcade16: EArcade16
+Loc_UI_Cameras_EastArcade_EArcade15: EArcade15
+Loc_UI_Cameras_EastArcade_OfficeEast: OfficeEast
+Loc_UI_Cameras_EastArcade_OfficeNW: OfficeNW
+Loc_UI_Cameras_EastArcade_OfficeSW: OfficeSW
+Loc_UI_Menus_ButtonRemapping_A: A
+Loc_UI_Menus_ButtonRemapping_B: B
+Loc_UI_Menus_Options_RestoreDefaults: Restore Defaults
+Loc_UI_HUD_PSUpgradeFreddyFinish_FinishUpgrade: Finish Upgrade
+Loc_UI_HUD_Subtitles_Format: {SubtitleSpeaker}:  {SubtitleString}
+Loc_UI_Fazwatch_Camera_Zoom_Format: {ZoomAmount}x
+Loc_UI_FazWatch_SecurityCameras_Cam_Format: {CameraPrefix}{Separator}{CameraName}
+Loc_UI_FazWatch_SecurityCameras_Cam_Separator: _
+Loc_UI_FazWatch_SecurityCameras_Cam_Prefix: CAM
+Loc_UI_KeyBindingIcon_KeyboardKey: A
+Loc_UI_General_Press: Press
+Loc_UI_NewGameCinematicPlayer_ToSkip: To Skip
+Loc_UI_HUD_FreddyOverlay_ExitPress: Exit: Press
+Loc_UI_Cameras_Utilidoors_Warehouse1: Warehouse1
+Loc_UI_Cameras_Utilidoors_Warehouse2: Warehouse2
+Loc_UI_Cameras_Utilidoors_Warehouse3: Warehouse3
+Loc_UI_Cameras_Utilidoors_Warehouse4: Warehouse4
+Loc_UI_Cameras_Utilidoors_Warehouse5: Warehouse5
+Loc_UI_Cameras_Utilidoors_Warehouse6: Warehouse6
+Loc_UI_Cameras_Utilidoors_Warehouse7: Warehouse7
+Loc_UI_Cameras_Utilidoors_Warehouse8: Warehouse8
+Loc_UI_Cameras_Utilidoors_Warehouse9: Warehouse9
+Loc_UI_Cameras_Utilidoors_Warehouse10: Warehouse10
+Loc_UI_Cameras_Utilidoors_Warehouse11: Warehouse11
+Loc_UI_Cameras_Utilidoors_Warehouse12: Warehouse12
+Loc_UI_Cameras_Utilidoors_Warehouse13: Warehouse13
+Loc_UI_Cameras_Utilidoors_Warehouse14: Warehouse14
+Loc_UI_Menus_SaveGame_Title: Save Game
+Loc_UI_HUD_ExitPopUp_QuitToTitleQuestion: Quit to Title?
+Loc_UI_Menus_Title_Root_DeleteGame: Delete Game Slot
+Loc_UI_Menus_Title_DeleteGame_Question: Are you sure you want to delete this game slot?
+Loc_UI_Menus_Options_RayTrace: Ray Trace
+Loc_UI_Menus_Options_VisualQuality: Visual Quality
+Loc_UI_Menus_Options_QualityPreference: Quality Preference
+Loc_UI_General_Freddy: Freddy
+Loc_UI_General_Gregory: Gregory
+Loc_UI_HUD_FinalChoice_Text01: Do you wish to stay?
+Loc_UI_HUD_FinalChoice_Stay: Stay
+Loc_UI_HUD_FinalChoice_Leave: Leave
+Loc_UI_HUD_FinalChoice_Vanny: Vanny
+Loc_UI_HUD_FinalChoice_Text02: Warning: Save stations will no longer be available if you stay. If Gregory is caught, it is game over.
+Loc_UI_AutoSave: Autosave
+Loc_UI_Menus_Inventory_RetroCD: Retro CD
+Loc_UI_Menus_PartsandServices_SelectUpgrade: Select Upgrade
+Loc_UI_Menus_Pause_ExitGame: Exit Game
+Loc_UI_HUD_ExitToTitlePopup_Text01: Any unsaved progress will be lost!
+Loc_UI_Menus_OptionsControls_SprintToggle: Sprint Toggle
+Loc_UI_Cameras_FazerBlast_Flag3: Flag3
+Loc_UI_Cameras_FazerBlast_Airlock: Airlock
+Loc_UI_Cameras_FazerBlast_Exit: Exit
+Loc_UI_Cameras_FazerBlast_PrizeCounter: PrizeCounter
+Loc_UI_Cameras_FazerBlast_WinnersElevator: WinnersElevator
+Loc_UI_Cameras_FazerBlast_Flag1: Flag1
+Loc_UI_Cameras_FazerBlast_Flag2: Flag2
+Loc_UI_Cameras_FazerBlast_UpperCatwalks: UpperCatwalks
+Loc_UI_Cameras_Backstage_Dock1: Dock1
+Loc_UI_Cameras_Backstage_Dock2: Dock2
+Loc_UI_Cameras_Backstage_Dock3: Dock3
+Loc_UI_Cameras_Backstage_Dock4: Dock4
+Loc_UI_Cameras_Backstage_Dock5: Dock5
+Loc_UI_Cameras_Backstage_DocksDoor: DocksDoor
+Loc_UI_Cameras_Backstage_RRDoorWest: RRDoorWest
+Loc_UI_Cameras_RockstarRow_RREast: RREast
+Loc_UI_Cameras_RockstarRow_RRWest: RRWest
+Loc_UI_Cameras_RockstarRow_Chica: Chica
+Loc_UI_Cameras_RockstarRow_Freddy: Freddy
+Loc_UI_Cameras_RockstarRow_Roxy: Roxy
+Loc_UI_Cameras_RockstarRow_ToUnderStage: ToUnderStage
+Loc_UI_Cameras_BackHall_BackHall1: BackHall1
+Loc_UI_Cameras_BackHall_BackHall2: BackHall2
+Loc_UI_Cameras_BackHall_BackHall3: BackHall3
+Loc_UI_Cameras_BackHall_BackHall4: BackHall4
+Loc_UI_Cameras_BackHall_BackHall5: BackHall5
+Loc_UI_Cameras_BackHall_BackHall6: BackHall6
+Loc_UI_Menus_OptionsControls_PrimaryAction: Primary Action (Held Item)
+Loc_UI_Cameras_Kitchen_BreakRoom: BreakRoom
+Loc_UI_Cameras_Kitchen_Vats1: Vats1
+Loc_UI_Cameras_Kitchen_Compactor: Compactor
+Loc_UI_Cameras_Kitchen_Laundry2: Laundry2
+Loc_UI_Cameras_Kitchen_BackHallway: BackHallway
+Loc_UI_Cameras_Kitchen_LaundryMain: LaundryMain
+Loc_UI_Cameras_Kitchen_LoadingDock: LoadingDock
+Loc_UI_Cameras_Kitchen_Locker: Locker
+Loc_UI_Cameras_Kitchen_MainHallway: MainHallway
+Loc_UI_Cameras_Kitchen_Loading2: Loading2
+Loc_UI_Cameras_Kitchen_Security1: Security1
+Loc_UI_Cameras_Kitchen_Vats2: Vats2
+Loc_UI_Cameras_Backstage_SecurityOffice_InnerEast1: InnerEast1
+Loc_UI_Cameras_Backstage_SecurityOffice_OuterWest: OuterWest
+Loc_UI_Cameras_Backstage_SecurityOffice_OuterWest1: OuterWest1
+Loc_UI_Cameras_Backstage_SecurityOffice_InnerWest2: InnerWest2
+Loc_UI_Cameras_Backstage_SecurityOffice_OuterEast1: OuterEast1
+Loc_UI_Cameras_Backstage_SecurityOffice_InnerEast2: InnerEast2
+Loc_UI_Cameras_Backstage_RehearsalRoom_Rehearsal1: Rehearsal1
+Loc_UI_Cameras_Backstage_WEntrance_RRGiftsWest: RRGiftsWest
+Loc_UI_Cameras_Backstage_WEntrance_RRDoorWest: RRDoorWest
+Loc_UI_Cameras_Backstage_WEntrance_RROfficeWest1: RROfficeWest1
+Loc_UI_Cameras_StageArea_WestArcade: WestArcade
+Loc_UI_Cameras_SewerChica_Sewer1: Sewer1
+Loc_UI_Cameras_SewerChica_Sewer2: Sewer2
+Loc_UI_Cameras_SewerChica_Sewer3: Sewer3
+Loc_UI_Cameras_EEntrance_RRGifstEast: RRGifstEast
+Loc_UI_Cameras_EEntrance_RROfficeEast: RROfficeEast
+Loc_UI_Cameras_Backstage_SecurityOffice_OuterEast: OuterEast
+Loc_UI_Cameras_Backstage_SecurityOffice_InnerWest1: InnerWest1
+Loc_UI_QuitArcade: Quit Arcade
+Loc_UI_Cameras_RoxyRacer_RoxyWest: RoxyWest
+Loc_UI_Cameras_RoxyRacer_RoxyEast: RoxyEast
+Loc_UI_Cameras_RoxyRacer_Office2: Office2
+Loc_UI_Cameras_RoxyRacer_OutsideOffice: OutsideOffice
+Loc_UI_Cameras_RoxyRacer_BumperCars: BumperCars
+Loc_UI_Cameras_RoxyRacer_Entrance2: Entrance2
+Loc_UI_Cameras_RoxyRacer_Storage: Storage
+Loc_UI_Cameras_RoxyRacer_RoxyWest2: RoxyWest2
+Loc_UI_HUD_SinkholeElevatorQuestion_Areyousure: Are you sure?
+Loc_UI_Cameras_BowlingAlley_BowlEntrance: BowlEntrance
+Loc_UI_Cameras_BowlingAlley_BowlArcade2: BowlArcade2
+Loc_UI_Cameras_WestArcade_UpperStairs: UpperStairs
+Loc_UI_Cameras_WestArcade_EntranceMain: EntranceMain
+Loc_UI_Cameras_WestArcade_LowerMain: LowerMain
+Loc_UI_Cameras_WestArcade_LowerCorner: LowerCorner
+Loc_UI_Cameras_WestArcade_UpperCorner: UpperCorner
+Loc_UI_Cameras_WestArcade_Bathrooms: Bathrooms
+Loc_UI_Cameras_WestArcade_Upper2: Upper2
+Loc_UI_Cameras_WestArcade_UpperRooms: UpperRooms
+Loc_UI_Cameras_WestArcade_MainStairs: MainStairs
+Loc_UI_Cameras_WestArcade_Stage: Stage
+Loc_UI_Cameras_WestArcade_Upper1: Upper1
+Loc_UI_Cameras_GatorGolf_GatorHead: GatorHead
+Loc_UI_Cameras_GatorGolf_Hole3: Hole3
+Loc_UI_Cameras_GatorGolf_Hole18: Hole18
+Loc_UI_Cameras_GatorGolf_BallPit: BallPit
+Loc_UI_Cameras_GatorGolf_Hole15: Hole15
+Loc_UI_Cameras_GatorGolf_Hole10: Hole10
+Loc_UI_Cameras_GatorGolf_Holes10_13: Holes10_13
+Loc_UI_Cameras_GatorGolf_GatorGrub: GatorGrub
+Loc_UI_Cameras_GatorGolf_Hole16: Hole16
+Loc_UI_Cameras_GatorGolf_Hole17: Hole17
+Loc_UI_Cameras_GatorGolf_BackHallway: BackHallway
+Loc_UI_Cameras_GatorGolf_Hole9: Hole9
+Loc_UI_Cameras_GatorGolf_Catwalks: Catwalks
+Loc_UI_Cameras_GatorGolf_FirstAid: FirstAid
+Loc_UI_Cameras_GatorGolf_Hole4: Hole4
+Loc_UI_Cameras_GatorGolf_Generator: Generator
+Loc_UI_Cameras_GatorGolf_Bridges: Bridges
+Loc_UI_Cameras_WestArcade_Bathroom_Janitorial: Janitorial
+Loc_UI_Cameras_CupcakeShop_CupcakeExt1: CupcakeExt1
+Loc_UI_Cameras_CupcakeShop_CupcakeExt2: CupcakeExt2
+Loc_UI_Cameras_CupcakeShop_CupcakeExt3: CupcakeExt3
+Loc_UI_Cameras_CupcakeShop_CupcakeExt4: CupcakeExt4
+Loc_UI_Cameras_CupcakeShop_CupcakeMain: CupcakeMain
+Loc_UI_Cameras_WestArcade_BackHall_RepairHall2: RepairHall2
+Loc_UI_Cameras_WestArcade_BackHall_RepairHall: RepairHall
+Loc_UI_Cameras_GlamRockSalon_StageArea: StageArea
+Loc_UI_Cameras_GlamRockSalon_PlayArea: PlayArea
+Loc_UI_Cameras_GlamRockSalon_StoreFront: StoreFront
+Loc_UI_Cameras_GlamRockSalon_BackWall: BackWall
+Loc_UI_Cameras_GlamRockSalon_MainSalon: MainSalon
+Loc_UI_Cameras_WestAtrium_FazEntrance: FazEntrance
+Loc_UI_Menus_Title_SaveSlotButton_Hour01: Hour  01
+Loc_UI_Menus_Title_SaveSlotButton_AutoSave: Auto Save
+Loc_UI_HUD_ChangesNotAppliedPopUp_ExitWithoutSaving: Exit Without Saving
+Loc_UI_HUD_ChangesNotAppliedPopUp_Question: Are you sure you want to leave this screen?
+Loc_UI_HUD_ChangesNotAppliedPopUp_Title: Changes Have Not Been Saved
+Loc_UI_Menus_Title_SaveSlotButton_DateFormatText: {MM}/{DD}/{YY}
+Loc_UI_Menus_Title_SaveSlotButton_TimeFormatText: {Hr}:{Min} {AM/PM}
+Loc_UI_Menus_Title_SaveSlotButton_PlaytimeFormatText: {Hr}:{Min}
+Loc_UI_Menus_Title_SaveSlotButton_GameHourFormatText: Hour  {GameHour}{AMPM}
+Loc_UI_Cameras_Mazercise_MazeVent: MazeVent
+Loc_UI_Menus_Options_ApplyChanges: Apply Changes
+Loc_UI_Cameras_SewerChica_Garage1: Garage1
+Loc_UI_Cameras_SewerChica_Garage2: Garage2
+Loc_UI_Cameras_SewerChica_Garage3: Garage3
+Loc_UI_Cameras_SewerChica_Garage4: Garage4
+Loc_UI_HUD_ConfirmDeletePopUp_CannotUndo: You cannot undo this
+Loc_UI_HUD_ConfirmDeletePopUp_Confirmation: Are you sure you want to delete this file?
+Loc_UI_HUD_ConfirmDeletePopUp_ConfirmFileDeletion: Confirm File Deletion
+Loc_UI_Menus_Title_SavedGames: Saved Games
+Loc_UI_Cameras_RoxyBossBattle_Storage1a: Storage1a
+Loc_UI_Cameras_RoxyBossBattle_Storage1b: Storage1b
+Loc_UI_Cameras_RoxyBossBattle_Storage2a: Storage2a
+Loc_UI_Cameras_RoxyBossBattle_Storage3a: Storage3a
+Loc_UI_Cameras_RoxyBossBattle_Storage3b: Storage3b
+Loc_UI_Cameras_RoxyRacer_AutoStorage: AutoStorage
+Loc_UI_Menus_OptionsControls_FazCam: Faz Cam
+Loc_UI_HUD_Backstage_RoomPower: Room Power
+Loc_UI_Menus_Title_SaveSlotButton_PlaytimeMinFormatText: 0{min}
+Loc_UI_Menus_Title_SaveSlotButton_PlaytimeHourFormatText: 0{hr}
+Loc_UI_Menus_ButtonRemapping_TouchPadButton: Touch Pad Button
+Loc_UI_Menus_SplashScreen_LegalText: Five Nights at Freddy's: Security Breach uses the Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. Unreal® Engine, Copyright 1998 - 2021, Epic Games, Inc. All rights reserved. Powered by Wwise © 2006 - 2021 Audiokinetic Inc. All rights reserved. 3D Production and optimization powered by InstaLOD. Insta LOD is a trademark of Insta LOD GmbH.
+Loc_UI_Fazwatch_Map_UnlockedArea: Unlocked Area
+Loc_UI_Fazwatch_Map_Level1: Level 1
+Loc_UI_Fazwatch_Map_Level2: Level 2
+Loc_UI_Fazwatch_Map_Level3: Level 3
+Loc_UI_Fazwatch_Map_Level4: Level 4
+Loc_UI_HUD_RebindKeyPopup_RebindKey: Rebind Key
+Loc_UI_HUD_RebindKeyPopup_Content01: The Jump Action is already using this binding.  Continuing will remove it. Are you sure?
+Loc_UI_HUD_RebindKeyPopup_Title: Confirm Key Binding
+Loc_UI_HUD_RebindKeyPopup_Jump: Jump
+Loc_UI_HUD_RebindKeyPopup_FormatText: The {OtherKey} Action is already using this binding.  Continuing will remove it. Are you sure?
+Loc_UI_Fazwatch_Map_Basement2: Basement 2
+Loc_UI_Fazwatch_Map_Basement1: Basement 1
+Loc_UI_Menus_Title_SaveSlotButton_SaveSlot: Save Slot {number}

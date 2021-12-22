@@ -1,0 +1,108 @@
+Loc_MessageData_FreddyIntro_Description: Hello, Gregory. It is me, Freddy. I will escort you to the main entrance. However, I am unable to leave this room. You should have no problem. There is a button on the wall that will open the door to the back room. I will make it accessible to you now.
+Loc_MessageData_FreddyIntro_Title: Hello Gregory
+Loc_MessageData_RoxyMessage_Description: Roxy keeps ripping the heads off the S.T.A.F.F. bots. Had to find an extra Dance Pass just to get into the repair center in West Arcade.
+Loc_MessageData_RoxyWeakness_Title: Driver Warning!
+Loc_MessageData_RoxyMessage_Title: Staff Note
+Loc_MessageData_RoxyWeakness_Description: Roxy has been jumping down on the racetrack. So you need to use the cars to run her over!
+Loc_MessageData_PartyFoul_Title: Party Foul
+Loc_MessageData_PartyFoul_Description: CUSTOMER COMPLAINT - We paid for the Glam Freddy Mega Deluxe Party Package and Freddy broke down as soon as he got on stage. We paid to have him at the table and sing happy birthday. He was supposed to give her the cake!  My daughter's birthday has been ruined. I demand a refund. 
+Loc_MessageData_FoodStorage_Title: Food Storage
+Loc_MessageData_FoodStorage_Description: ATTENTION KITCHEN STAFF - All food materials must be securely stored at closing. Chica has been caught eating from the kitchen garbage after hours. The maintenance repairs are costly and will come out of kitchen staff paychecks. - MANAGEMENT
+Loc_MessageData_Complaint2_Title: HI DAVE
+Loc_MessageData_Complaint2_Description: CUSTOMER COMPLAINT - You should fire Dave. He sucks.
+Loc_MessageData_ACInspection_Title: AC Inspection
+Loc_MessageData_ACInspection_Description: Thank you for contacting Low Budget Building Contractors. We have done a preliminary inspection and find nothing wrong with your ventilation system. The loud clanging, banging and scraping noises which were reported don't appear to be reproducable. Call us if it happens again. Invoice attached. - Keith
+Loc_MessageData_NightTerrors_Title: Night Terrors
+Loc_MessageData_NightTerrors_Description: CUSTOMER COMPLAINT - My son never had sleeping problems. But after spending an evening in the daycare, he refuses to sleep with the lights out anymore! He just cries and cries. And then when I do let him keep the lights on, he wets the bed! 
+Loc_MessageData_Stolenproperty_Title: Stolen property
+Loc_MessageData_Stolenproperty_Description: SECURITY REPORT - Well somehow someone broke into a Rockstar Row display case and stole the wind up toy Music Man prototypes. The case was smashed and there's glass on the floor but no sign of a break in. Nothing else seems to be missing. I have absolutely no idea how they got into the building and there's nothing on the security footage. Now what should I do? Should I call the police and report a break in? - Vanessa
+Loc_MessageData_FalseAlarm_Title: False Alarm
+Loc_MessageData_FalseAlarm_Description: SECURITY REPORT - A local police officer came by tonight. He said he was responding to an emergency call from someone inside the Pizzaplex. There is no way that is possible. I was the only one here and I certainly didn't make any outside calls. He wanted to look around, but I sent him away. Just another prank call.  - Vanessa
+Loc_MessageData_DrinkFizzyFaz_Title: Drink Fizzy Faz!!!!
+Loc_MessageData_DrinkFizzyFaz_Description: COPY FOR APPROVAL: Hey kids! Do you like Fizzy Faz? Think you can drink every flavor of Fizzy Faz in one day? Take the Superstar challenge! Grape, Lemonade, Cherry... Your Fazwatch keeps track of all your purchases. Drink them all. Be first! Be the raddest kid on your block.
+Loc_MessageData_Chasingcars_Title: Chasing cars
+Loc_MessageData_ChicaBoss4_Title: CHICA REPORT
+Loc_MessageData_ChicaBoss4_Description: ERRANT BEHAVIOR REPORT - Chica's personality chip has always been a bit 'quirky', but the new Pizza Flavored Monty Mystery Mix Slushy Syrup has adverse effects on her programming. She has attacked patrons, employees and S.T.A.F.F. for it. It is recommended that Monty Mystery Mix should be recalled before we're inundated with lawsuits. 
+Loc_MessageData_MontyMischief_Title: Monty Mischief
+Loc_MessageData_MontyMischief_Description: ERRANT BEHAVIOR REPORT - Monty didn't show up for the main stage performance again. We found him in the same place we always do, the catwalks over Monty Golf.  We can't have a repeat of last month. Someone hit the hole in one and the hurricane bucket knocked him down. Both legs were broken and required emergency parts and service work.  
+Loc_MessageData_HURRICANE_Title: HURRICANE
+Loc_MessageData_HURRICANE_Description: Hurricane Hole in One!!! Get a hole in one on the 18th hole! Fun fun fun! The area is showered by plastic balls!
+Loc_MessageData_Chasingcars_Description: ERRANT BEHAVIOR REPORT - Roxy never misses a race. She must be frying her circuits waiting for the raceway to reopen. Every time there is a test run on the track she gets in the way. If she keeps getting in the way, the track will never get fixed.
+Loc_MessageData_Bonniereplacement_Title: Understudy
+Loc_MessageData_Bonniereplacement_Description: MANAGEMENT REPORT - With Bonnie out of commission, we are making Monty the new bass player. Parts and Service has already done the proper adjustments. This could be a good thing. Monty could be even more popular than Bonnie. 
+Loc_MessageData_Re-theme_Title: Re-theme
+Loc_MessageData_Re-theme_Description: MANAGEMENT REPORT - The bowling alley needs a re-theme. While most of the Bonnie art was removed, kids keep asking, "Where's Bonnie?" Do we have an officially approved response?
+Loc_MessageData_Bonnieslastmovements_Title: Bonnie's last movements
+Loc_MessageData_Bonnieslastmovements_Description: SECURITY REPORT - 12:24AM - Bonnie is seen leaving his green room in Rockstar Row heading East towards the atrium. 2:40AM - Bonnie enters the East Arcade. 4:12AM - Bonnie enters Monty Golf.  
+Loc_MessageData_NoflashPhotography_Title: No Flash Photography
+Loc_MessageData_NoflashPhotography_Description: WARNING: No flash photography. Items will be confiscated and kept in the Monty Golf security office. 
+Loc_MessageData_Hidethemix_Title: Hide the mix
+Loc_MessageData_Hidethemix_Description: RECALL NOTICE - Please take all Monty Mystery Mix to the frozen ice cream storage behind the Bowling alley. Additional instructions to follow.
+Loc_MessageData_ChicaBossUntitled2_Description: SAFETY FIRST -  1) Fill the garbage compactor. 2) Prime the compactor engine by pushing the button in the storage room (follow the cable). 3) Press the hanging activation button in front of the compactor. IMPORTANT: Make sure all employees and S.T.A.F.F. are clear of the compactor before step 3. 
+Loc_MessageData_BonnieMissing_Title: MISSING
+Loc_MessageData_ArcadeGlitchesUntitled1_Description: MAINTENANCE LOG - The BB World game has been acting up. Customers have complained that it starts to glitch over time. I headed to the theater to fix it and now it's gone. I never saw a move request so it should still be there somewhere.  I guess I'll check again after the company meeting. 
+Loc_MessageData_ArcadeGlitchesUntitled2_Description: MAINTENANCE LOG - Chica Feeding Frenzy in the bakery won't turn off. Even when unplugged, the game just kept running. There is no way it has that much residual charge. 
+Loc_MessageData_ArcadeGlitchesUntitled3_Description: MAINTENANCE LOG - Why is the Monty Golf AR-Cade in the mini golf course? It makes absolutely no sense. It seems to work ok otherwise.  
+Loc_MessageData_ArcadeGlitchesUntitled4_Description: MAINTENANCE LOG - There's a Princess Quest 1 machine somewhere in the building. An actual standup arcade! I guess the devs pulled it from that old mobile game. Why port to arcade?
+Loc_MessageData_ArcadeGlitchesUntitled5_Description: MAINTENANCE LOG - Princess Quest 2 - Won't boot properly. No idea why! Shuts down when I try to play? Like it's personal. Doesn't matter anyway. I still haven't found PQ1. 
+Loc_MessageData_ArcadeGlitchesUntitled6_Description: INVENTORY CHECK - There is no record of a PQ3 arcade, yet there is a cabinet tucked away in Fazerblast. Won't work though. Sometimes I hear it in attract mode, but I have never seen a single image displayed. Too creepy. Leave it where it is. At least until I play part 1 and 2.  
+Loc_MessageData_StaffParty1_Title: QUESTION
+Loc_MessageData_StaffParty2_Title: All Staff Meeting
+Loc_MessageData_Staff1_Title: PINK SLIP
+Loc_MessageData_ChicaVoiceBoxUntitled1_Description: MAINT LOG: CHICA - Don't let her sing! Messes with the navigation of the other bots. Horrible results when she sang during live performance. S.T.A.F.F. bots dropping serving trays, chaos, guest injuries, 12 lawsuits. Experimental voice box test failed. Replacement advised. 
+Loc_MessageData_RoxyEyesUntitled1_Description: MAINT LOG: ROXY - Roxy sees things differently than the others. This upgrade was meant to help her win races. However, there are some side effects. Sometimes she will stare and talk to the other bots through walls. 
+Loc_MessageData_MontyClawsUntitled1_Description: MAINT LOG: MONTY - Montgomery's Claw upgrades allow him to play the bass. Following performances, he mostly uses them to cause damage. The fence repairs are getting costly. 
+Loc_MessageData_RayMessageUntitled1_Description: Last week it was Jenkins forgetting to replace the urinal cakes after a single use, yesterday it was Elsa for showing up to work early, today it's me because Lilly H asked for Chicken Alfredo. I said we don't make that here. Her father (guy looked like Sasquatch, btw) demanded to speak to a manager. I get Dennis. Dennis asks me why I don't just get her what she wants. I say we don't have Chicken Alfredo! Dennis fires me on the spot. Jokes on him though - Turns out our new S.T.A.F.F. bots (the “better employees”) aren't programmed to make Chicken Alfredo, so HQ fired him for firing me.Sweet revenge. Thanks, Lilly!
+Loc_MessageData_NightShiftUntitled1_Description: EXIT INTERVIEW - Of course, I got stuck in the arcade. Every time I exit the Security Office, I get locked out. If it's not my low clearance level, then I need a stupid Party Pass. I'm on the security team. Shouldn't I have access to everything? I swear, those things are messing with me. This place is not safe. Give me my $100 and I'll go. 
+Loc_MessageData_ComplaintUntitled1_Description: CUSTOMER COMPLAINT - The pizza we ordered was weird. Some pieces were different sizes or didn't fit together. One slice even had different toppings. Did you recycle the old pizza from the trash? I am never coming back here unless I am given some sort of major discount. - Angry Mom
+Loc_MessageData_MontyBoss1_Title: BEHIND THE MAZE
+Loc_MessageData_ComplaintUntitled3_Description: CUSTOMER COMPLAINT - Why did you reopen? Everyone remembers what happened to those kids.
+Loc_MessageData_SinkholeUntitled1_Description: CONSTRUCTION UPDATE - Every day there's a new problem. We pour a new section of track and as soon as it dries, we start to see cracks. I am worried we are building over a sinkhole here. Before construction was approved, there was a site evaluation, right? 
+Loc_MessageData_SinkholeUntitled2_Description: CONSTRUCTION UPDATE - We keep getting these brown outs so I got fed up and did a little investigation. It looks like something is drawing a massive amount of power from the worksite. We've traced a high voltage cable that disappears right into the foundation. There is definitely something under us. We're going to bore back into the foundation and find out what it is. 
+Loc_MessageData_SinkholeUntitled3_Description: CONSTRUCTION UPDATE -  Today, we broke through the foundation and found what looks like an old elevator shaft. Someone must have known about this, right? There's something down there pulling power. I'm taking a team down in the morning to check it out. 
+Loc_MessageData_VanessaUntitled2_Description: INTERVIEW NOTES - As requested, here are my notes on today's Chief Security Officer interview. While Vanessa seemed eager and bright, she doesn't appear to have any relevant background experience. I realize the recommendation came from the top, but we need someone who has run security for a facility of this scale. I do not recommend her for this position. 
+Loc_MessageData_StaffUntitled1_Description: ATTENTION EMPLOYEES - Good news! Due to the success of the S.T.A.F.F. project, we will no longer need nighttime employee coverage. We will be reducing nighttime hours effective immediately. Enjoy the additional time spent with your families.
+Loc_MessageData_UpgradeMachine1_Title: Easy Money
+Loc_MessageData_UpgradeMachine1_Description: My cousin worked here. He said magnets screw with the ticket machines. Just head up to Faz Pad. You can get down to customer service through the back door and grab a stack of tickets. I'll be waiting for you outside. If you hear any robots, just hide until they leave. You'll be fine. 
+Loc_MessageData_MontyBoss1_Description: MAINTENANCE REPORT - I still can't find what is making all the clanging noise in the AC system. This is the fifth visit this week. If I could reach that stupid vent behind the exercise maze room, I could get to the catwalks over Gator Golf and take a look. Maybe someone who works in Mazercise knows how.
+Loc_MessageData_MontyBoss2_Title: THE ANSWER
+Loc_MessageData_MontyBoss2_Description: MAZERCISE INSTRUCTIONS - Move blue to the corner. You should be able to work it out from there. 
+Loc_MessageData_MontyBoss3_Title: Job Security
+Loc_MessageData_MontyBoss3_Description: Where is everyone? Leo was the only one who had a copy of the maze control key, but I haven't seen him for months. Maybe that creepy bot knows where the key is. Leo was supposed to train it to work the maze, instead he tricked the bot into doing busy work under the daycare theater. I'll check after the all staff meeting tonight. 
+Loc_MessageData_ChicaBoss2_Title: SAFETY CHECK
+Loc_MessageData_ChicaBoss2_Description: ATTENTION KITCHEN STAFF - Parts and Service is concerned that Chica will suffer heavy damage if she ever gets caught in the trash compactor.  Always double check the compactor before use. Do not use to compactor to dispose of pizza, pizza flavored items, or pizza scented materials (especially Monty's Mystery Mix!). Otherwise, her replacement cost will come out of your paycheck. 
+Loc_MessageData_ChicaBoss3_Title: COMPACTOR INSTRUCTIONS
+Loc_MessageData_ChicaBoss3_Description: SAFETY FIRST -  1) Fill the garbage compactor. 2) Prime the compactor engine by pushing the button in the kitchen storage room (follow the cable). 3) Press the hanging activation button in front of the compactor. IMPORTANT: Make sure all employees and S.T.A.F.F. are clear of the compactor before step 3. 
+Loc_MessageData_RoxyBoss1_Title: SORE WINNER
+Loc_MessageData_RoxyBoss1_Description: Roxy did it again. Another braindead S.T.A.F.F. bot decapitated because it got in her way on the racetrack. I'm getting really sick of trudging over to West Arcade to fix these things. Why isn't there a S.T.A.F.F. repair station any closer? At least I have an extra Dance Pass so I won't get locked out again. 
+Loc_MessageData_RoxyBoss3_Title: TEST DRIVERS WANTED
+Loc_MessageData_RoxyBoss3_Description: EQUIPMENT REQUEST - We are running out of test bots for the raceway. At this point we are down to a single Driver Assist bot. For safe keeping, we are storing it at the back of the raceway near the Northwest stairs. 
+Loc_MessageData_ArcadeGlitches1_Title: BBW MAINT LOG
+Loc_MessageData_ArcadeGlitches2_Title: CFF MAINT LOG
+Loc_MessageData_ArcadeGlitches3_Title: AR-CADE MAINT LOG
+Loc_MessageData_ArcadeGlitches4_Title: PQ1 MAINT LOG
+Loc_MessageData_ArcadeGlitches5_Title: PQ2 MAINT LOG
+Loc_MessageData_ArcadeGlitches6_Title: OUT OF ORDER
+Loc_MessageData_ArcadeGlitches7_Title: RED FLAG
+Loc_MessageData_ArcadeGlitches7_Description: MAINTENANCE LOG - I did it!. I did what you wanted! I beat parts 1 and 2. Why won't you turn on? What else is there? Tell me! 
+Loc_MessageData_ArcadeGlitches8_Title: ARCADE CONSPIRACY
+Loc_MessageData_ArcadeGlitches8_Description: EXIT INTERVIEW: They are working together. The arcades. They are hiding something. The glitches. Glitch them all at the same time... then the Princess will recognize me. She's testing me. I am not yet worthy. The others are protecting it. Let me stay! I am so close! Just one more night, please! I can save the Princess!
+Loc_MessageData_Vanessa1_Title: NO QUESTIONS ASKED
+Loc_MessageData_Vanessa1_Description: NEW HIRE SUMMARY - Head Security Guard. No prior qualifications. Internal reference (name withheld). 
+Loc_MessageData_StaffParty1_Description: Are you going to the staff party? I don't want to stick around after my 14 hr shift, but I don't want to get laid off if I don't show up.
+Loc_MessageData_StaffParty2_Description: REMINDER TO ALL EMPLOYEES - The all staff meeting is this Thursday night at 11:30PM. All service team attendance is mandatory. There will be cake! 
+Loc_MessageData_ChicaVoiceBox_Title: CHICA UPGRADE
+Loc_MessageData_RoxyEyes_Title: ROXY UPGRADE
+Loc_MessageData_MontyClaws_Title: MONTY UPGRADE
+Loc_MessageData_TornPaper_Title: TORN PAPER
+Loc_MessageData_TornPaper_Description: It is there, but you can't see. Alone in the dark. I found the key. 
+Loc_MessageData_RayMessage1_Title: BETTER EMPLOYEES
+Loc_MessageData_NightShift_Title: NIGHT SHIFT
+Loc_MessageData_Complaint1_Title: RECYCLED PIZZA?
+Loc_MessageData_Complaint3_Title: IT IS HAPPENING AGAIN
+Loc_MessageData_Sinkhole1_Title: SINKHOLE
+Loc_MessageData_Sinkhole2_Title: POWER DRAIN
+Loc_MessageData_Sinkhole3_Title: OLD ELEVATOR
+Loc_MessageData_Vanessa2_Title: MARKED FOR DELETION
+Loc_MessageData_DJMM_Title: ULTIMATE PARTY HOST
+Loc_MessageData_DJMM_Description: Congratulations on your installation of the new and improved DJMM. The DJMM features eons of musical enjoyment using a patented technique called 'improv' (royalty free!). No two songs are ever the same. Save a fortune on cleanup! Using a series of connected tubes, the DJMM can run cleaning routines between set lists. If the need ever arises, activate the new bouncer mode.  (Warning: Bouncer mode still under development. Use of the bouncer mode will void your warranty.)

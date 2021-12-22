@@ -1,0 +1,241 @@
+Loc_UI_HUD_InstructionCard_CallFreddy_Content: Press <btn id="CallFreddy"/> to call Freddy for help.
+Loc_UI_HUD_InstructionCard_CallFreddy_Problem_Content: ”I am sorry, Gregory. I cannot find your location.”
+Loc_UI_HUD_InstructionCard_CallFreddy_Problem_OutOfPower_Content: "I am sorry Gregory. I am out of power. I cannot help until the recharge cycle is complete at the end of the hour."
+Loc_UI_HUD_InstructionCard_CallFreddy_Problem_OutOfPower_Title01: CALL FREDDY
+Loc_UI_HUD_InstructionCard_CallFreddy_Problem_OutOfPower_Title02: OUT OF POWER
+Loc_UI_HUD_InstructionCard_CallFreddy_Problem_Title: CALL FREDDY:PROBLEM
+Loc_UI_HUD_InstructionCard_CallFreddy_Title: CALL FREDDY
+Loc_UI_HUD_InstructionCard_CollectPrizeBoxes_Content: Prize boxes contain party passes, security badges and other helpful items. Finding prize boxes is the key to surviving the night.
+Loc_UI_HUD_InstructionCard_CollectPrizeBoxes_Title: COLLECT PRIZE BOXES
+Loc_UI_HUD_InstructionCard_FazerBlaster_Content: With the Fazer Blaster equipped,
+Loc_UI_HUD_InstructionCard_FazerBlaster_Title: FAZERBLASTER
+Loc_UI_HUD_InstructionCard_FazWatch_Content01: Press <btn id="FazWatch"/> to bring up the Faz Watch.
+Loc_UI_HUD_InstructionCard_FazWatch_Content02: Cameras, messages, and more can be accessed through the watch. WARNING - Time does not stop when looking at the Faz watch.
+Loc_UI_HUD_InstructionCard_FazWatch_Title: FAZWATCH
+Loc_UI_HUD_InstructionCard_FlashBeacon_Content01: With the Faz Cam equipped,
+Loc_UI_HUD_InstructionCard_FlashBeacon_Content02: When unequipped,
+Loc_UI_HUD_InstructionCard_FlashBeacon_Content03: Must be recharged at flashlight station between uses.
+Loc_UI_HUD_InstructionCard_FlashBeacon_Title: FAZ CAM
+Loc_UI_HUD_InstructionCard_FlashlightRecharge_Content01: The flashlight is out of power.
+Loc_UI_HUD_InstructionCard_FlashlightRecharge_Content02: Find a flashlight station to recharge the flashlight.
+Loc_UI_HUD_InstructionCard_FlashlightRecharge_Title: FLASHLIGHT RECHARGE
+Loc_UI_HUD_InstructionCard_FreddyOutOfPower_Content: Freddy is out of power. He is unable to help until the start of the next hour.
+Loc_UI_HUD_InstructionCard_FreddyOutOfPower_Title: FREDDY OUT OF POWER
+Loc_UI_HUD_InstructionCard_HidingPlaces_Content01: Press <btn id="Interact"/> when next to a hiding place to escape the bots.
+Loc_UI_HUD_InstructionCard_HidingPlaces_Content02: Warning: A bot that watches you hide, may instantly find you.
+Loc_UI_HUD_InstructionCard_HidingPlaces_Title: HIDING PLACES
+Loc_UI_HUD_InstructionCard_Jump_Content: Press <btn id="Jump"/> to jump.
+Loc_UI_HUD_InstructionCard_Jump_Title: JUMP
+Loc_UI_HUD_InstructionCard_KeepMoving_Content: Don't let the bots catch you.
+Loc_UI_HUD_InstructionCard_KeepMoving_Title: KEEP MOVING
+Loc_UI_HUD_InstructionCard_PartyPasses_Content: Give party passes to STAFF BOTS to unlock areas of the Pizza Plex.
+Loc_UI_HUD_InstructionCard_PartyPasses_Title: PARTY PASSES
+Loc_UI_HUD_InstructionCard_ReCharge_Content: At the end of each hour, get into a Recharge Station or youwill get caught. Stations are marked on the Faz Map.
+Loc_UI_HUD_InstructionCard_ReCharge_Title: KEEP AN EYE ON THE TIME
+Loc_UI_HUD_InstructionCard_SecurityBadges_Content: Security Badges allow access through numbered security doors.The player's security level is tracked on the Fazwatch.
+Loc_UI_HUD_InstructionCard_SecurityBadges_Title: SECURITY BADGES
+Loc_UI_HUD_InstructionCard_SprintAndStamina_Content01: Hold <btn id="Run"/> to run.
+Loc_UI_HUD_InstructionCard_SprintAndStamina_Content02: You can't run forever...
+Loc_UI_HUD_InstructionCard_SprintAndStamina_Title: SPRINTING + STAMINA
+Loc_UI_HUD_InstructionCard_Stealth_Content01: Press <btn id="Crouch"/> to crouch.
+Loc_UI_HUD_InstructionCard_Stealth_Content02: When you are crouching, the bots will have a harder time finding you.
+Loc_UI_HUD_InstructionCard_Stealth_Content03: A <blue>BLUE</> outline means you are not visible.
+Loc_UI_HUD_InstructionCard_Stealth_Content04: A <yellow>YELLOW</> outline means a bot is currently looking for you.
+Loc_UI_HUD_InstructionCard_Stealth_Content05: A <red>RED</> outline means you have been <Bold>found</>.
+Loc_UI_HUD_InstructionCard_Stealth_Title: STEALTH
+Loc_UI_HUD_InstructionCard_SurviveUntil6_Content: OBJECTIVE: Return to the main exit at 6:00AM to escape.
+Loc_UI_HUD_InstructionCard_SurviveUntil6_Title: SURVIVE UNTIL 6:00AM
+Loc_UI_HUD_InstructionCard_SwitchItems_Content: Press <btn id="SubInventoryLeft"/> and <btn id="SubInventoryRight"/> to switch between items.
+Loc_UI_HUD_InstructionCard_SwitchItems_Title: SWITCH ITEMS
+Loc_UI_HUD_InstructionCard_UseFreddy_Content01: Use <btn id="Movement"/> to control Freddy.
+Loc_UI_HUD_InstructionCard_UseFreddy_Content02: Press <btn id="InteractFreddy"/> to exit.
+Loc_UI_HUD_InstructionCard_UseFreddy_Content03: Bots cannot find Gregory when he is controlling Freddy.
+Loc_UI_HUD_InstructionCard_UseFreddy_Title: HOW TO USE FREDDY
+Loc_UI_HUD_InstructionCard_UseTheCameras_Content01: Use the security cameras on the Faz watch to help find prize boxes and avoid the animatronics.
+Loc_UI_HUD_InstructionCard_UseTheCameras_Content02: A red icon will appear when a camera sees a moving bot.
+Loc_UI_HUD_InstructionCard_UseTheCameras_Title: USE THE CAMERAS
+Loc_Game_MissionTriggers_FreddyFirstAid_EnterFirstAid: Enter first aid
+Loc_Game_MissionTriggers_FreddyFirstAid_LeaveMessage: <btn id="Interact"/>: Exit
+Loc_Game_MissionTriggers_FreddyFirstAid_ShowInformation: Vanessa and Freddy are talking now!
+Loc_Game_MissionTriggers_StartupMission_ExitFreddy: <btn id="InteractFreddy"/>: Exit Freddy
+Loc_Game_MissionTriggers_StartupMission_LookAround: <btn id="Look"/>: Look around
+Loc_Game_MissionTriggers_StartupMission_LookAtWindow: Look out window
+Loc_Game_MissionTriggers_StartupMission_OpenFazWatch: Press <btn id="Fazwatch"/>: Open Fazwatch
+Loc_Game_MissionTriggers_StartupMission_TakeFazWatch: Take Fazwatch from Freddy
+Loc_Game_MissionTriggers_RoxyBoss_PlaceBotHead: Place Bot Head
+Loc_Game_MissionTriggers_RoxyBoss_UseCrashCam: Use Crash Cam
+Loc_Instruction_Use: Use
+Loc_Instruction_PushButton: Push Button
+Loc_Instruction_Open: Open
+Loc_Instruction_Hide: Hide
+Loc_Instruction_Enter: Enter
+Loc_Instruction_Collect: Collect
+Loc_Instruction_RequiresItem: Requires Item
+Loc_Instruction_NeedHigherSecurityLevel: Need higher security level
+Loc_Instruction_AnyButtonSkip: Press any button to skip
+Loc_Instruction_GetToRechargeStation: Get to the Recharge Station
+Loc_Instruction_Computer_Access: Access Computer
+Loc_Instruction_Computer_Leave: Leave Computer
+Loc_Instruction_SurviveUntil6AM: Objective: Survive until 6 AM
+Loc_Instruction_KitchenOffice_Button_LockDoors: Lock Doors
+Loc_Instruction_KitchenOffice_Button_UnlockDoors: Unlock Doors
+Loc_UI_HUD_ControlsDisplay_UseFlashlight: Use Flashlight: <btn id="Flashlight"/>
+Loc_UI_HUD_ControlsDisplay_Crouch: Crouch: <btn id="Crouch"/>
+Loc_UI_HUD_ControlsDisplay_Sprint: Sprint: <btn id="Run"/>
+Loc_UI_HUD_ControlsDisplay_CallFreddy: Call Freddy: <btn id="CallFreddy"/>
+Loc_UI_HUD_ControlsDisplay_FullControls: Use Flashlight: <btn id="Flashlight"/> Call Freddy: <btn id="CallFreddy"/> Crouch: <btn id="Crouch"/> Sprint: <btn id="Run"/>
+Loc_Game_MissionTriggers_StartupMission_LookRight: <btn id="Look"/>: Look Right
+Loc_Game_MissionTriggers_StartupMission_LookLeft: <btn id="Look"/>: Look Left
+Loc_Game_MissionTriggers_StartupMission_LookDown: <btn id="Look"/>: Look Down
+Loc_Game_MissionTriggers_StartupMission_LookUp: <btn id="Look"/>: Look Up
+Loc_Instruction_TurnOnOffFlashlight: Left Click: Turn On/Off Flashlight
+Loc_Instruction_Survival_SkipButton: Skip
+Loc_Instruction_SaveGameActor_SaveYourSpot: SAVE YOUR SPOT
+Loc_Instruction_Survival_PressAnytoContinue: Press any button to continue
+Loc_Instruction_RepairConsole_InteractionText: WELCOME TO FAZBEAR ANIMATRONIC REPAIR OS v0.2.84   PLEASE SELECT AN OPTION:
+Loc_UI_HUD_FormatText_Interact: {Action} <btn id="interact"/>: {Instruction}
+Loc_UI_HUD_FormatText_InteractFreddy: {Action} <btn id="InteractFreddy"/>: {Instruction}
+Loc_Instruction_ChicaBeak: Chica Beak
+Loc_Instruction_RequiresItem_Variable: Requires Item {0}
+Loc_Instruction_RequiresHigherSecurityPass: Requires Level {0} Security Pass
+Loc_Instruction_HigherSecurityLevelAcquired: Security Level {0} Acquired
+Loc_Instruction_Action_Press: Press
+Loc_Instruction_Action_Hold: Hold
+Loc_Instruction_OperatePizzabot: Operate Pizzabot
+Loc_Instruction_NeedPartyPass: Need party pass
+Loc_Instruction_PushOverCans: Distraction
+Loc_Instruction_Slide: Slide
+Loc_UI_HUD_InstructionCard_Crouch_Title: Crouch
+Loc_UI_HUD_InstructionCard_NoiseMaker_Title: NOISE MAKERS
+Loc_UI_HUD_InstructionCard_NoiseMaker_Content: Press <btn id="Interact"/> to knock objects over and distract bots.
+Loc_UI_HUD_InstructionCard_NoiseMaker_Content02: Don't get spotted!
+Loc_Instruction_HideInstructionCard: Hide Instruction Card
+Loc_UI_HUD_UtilityTunnelText_UTILITYTUNNELS: UTILITY TUNNELS:
+Loc_UI_HUD_UtilityTunnelText_STAFFONLY: S.T.A.F.F. ONLY
+Loc_Instruction_TurnOnGenerator: Turn on generator
+Loc_Instruction_RechargeFlashlight: Recharge Flashlight
+Loc_Instruction_CrashCoin: Get Crash Coin
+Loc_Instruction_RequiresFormat: Requires {0}
+Loc_Instruction_EntryTicketNeeded: Entry Ticket Needed
+Loc_Instruction_RequiresFlashlight: Requires Flashlight
+Loc_Instruction_FazPassUpgradeMachine_HacktheMachine: Hack the Machine
+Loc_Instruction_FazPassUpgradeMachine_CompPassInstruction: Use Complimentary Entry Ticket
+Loc_Instruction_FazPassUpgradeMachine_UseMagnetInstruction: Use Hippo Magnet
+Loc_Instruction_FazPassUpgradeMachine_UseMachine: Use Machine
+Loc_Instruction_BadgeHolder_Take: Take 
+Loc_Instruction_BadgeHolder_TakeSecurity: Take Security Badge Level 
+Loc_Instruction_StageControlBoard_UseShowtimeDisk: Use Showtime Disk
+Loc_Instruction_KitchenBotPizzaStation_SetPizzaDown: Set Pizza Down
+Loc_Instruction_LoadingDockTrigger_UseControls: Use Controls
+Loc_Instruction_PSUpgradeTesterUI_InstructionText: Follow The Sequence
+Loc_Instruction_PSUpgradeFreddyUI_InstructionText: Connect the wires
+Loc_Instruction_FormatText_TakeSecurityBadgeLevel: Take Security Badge Level {LevelNumber}
+Loc_Instruction_FormatText_TakeItem: Take {ItemName}
+Loc_Instruction_Format_Controls: {InstructionCallFreddy} {InstructionCrouch} {InstructionSprint}
+Loc_Instruction_Format_Controls_Full: {InstructionFlashlight} {InstructionCallFreddy} {InstructionCrouch} {InstructionSprint}
+Loc_UI_HUD_InstructionCard_SaveStation_Title: Save Station
+Loc_UI_HUD_InstructionCard_SaveStation_Content01: Press and Hold <btn id="Interact"/> to save your progress
+Loc_UI_HUD_InstructionCard_SaveStation_Content02: It takes some time, so keep an eye out!
+Loc_UI_HUD_InstructionCard_RechargeFlashlight_Content01: Press and hold <btn id="Interact"/> to recharge your flashlight
+Loc_UI_HUD_InstructionCard_RechargeFlashlight_Content02: But be careful, it takes some time to recharge!
+Loc_UI_HUD_InstructionCard_CheckTheCameras_Title: CHECK THE CAMERAS
+Loc_UI_HUD_InstructionCard_CheckTheCameras_Content_MouseKeyboard: <btn id="SwitchCameras"/> to switch between cameras on the map.
+Loc_UI_HUD_InstructionCard_Endo_Title: ENDOS
+Loc_UI_HUD_InstructionCard_Endo_Content: The Endos only move when you don't look at them! Get away or hide as soon as you can!
+Loc_Instruction_PartsAndService_MontyUpgrade_Open: OPEN ARM CASING
+Loc_Instruction_PartsAndService_MontyUpgrade_Close: CLOSE THE ARM CASING
+Loc_Instruction_PartsAndService_MontyUpgrade_Remove: TAKE OUT OLD CLAWS
+Loc_Instruction_PartsAndService_ChicaUpgrade_RemoveBowtie: TAKE OFF BOWTIE
+Loc_Instruction_PartsAndService_ChicaUpgrade_RemoveChest: TAKE OFF CHEST PLATE
+Loc_Instruction_PartsAndService_ChicaUpgrade_RemoveVoicebox: TAKE OUT VOICEBOX
+Loc_Instruction_PartsAndService_ChicaUpgrade_ReplaceChest: REPLACE CHEST PLATE
+Loc_Instruction_PartsAndService_ChicaUpgrade_ReplaceBowtie: REPLACE BOWTIE
+Loc_Instruction_PartsAndService_RoxyUpgrade_RemoveFace: TAKE OFF FACE PLATE
+Loc_Instruction_PartsAndService_RoxyUpgrade_RemoveEyes: TAKE OUT EYES
+Loc_Instruction_PartsAndService_RoxyUpgrade_ReplaceEyes: PUT IN THE EYES
+Loc_Instruction_PartsAndService_RoxyUpgrade_ReplaceFace: REPLACE FACE PLATE
+Loc_Instruction_KitchenBotPizzaStation_BakePizza: Bake Pizza
+Loc_Game_MissionTriggers_StartupMission_ExitFreddy2: Exit Freddy
+Loc_Game_MissionTriggers_StartupMission_OpenFazWatch2:  Open Fazwatch
+Loc_Instruction_CloseInstructionCard: Close Instruction Card
+Loc_Instruction_Action_Use: Use
+Loc_Instruction_Action_Hit: Hit
+Loc_UI_HUD_InstructionCard_PAS_CloseArm_KeyBindText_Right: to close the arm casing.
+Loc_UI_HUD_InstructionCard_PAS_CloseArm_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_UseFreddy_KeyBindText_Left: Use
+Loc_UI_HUD_InstructionCard_UseFreddy_KeyBindText_Right: to control Freddy.
+Loc_UI_HUD_InstructionCard_UseFreddy_KeyBindText_Exit_Left: Press
+Loc_UI_HUD_InstructionCard_UseFreddy_KeyBindText_Exit_Right: to exit.
+Loc_UI_HUD_InstructionCard_PAS_TakeOffFaceplate_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_TakeOffFaceplate_KeyBindText_Right: to take off the face plate.
+Loc_UI_HUD_InstructionCard_Jump_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_Jump_KeyBindText_Right: to jump.
+Loc_UI_HUD_InstructionCard_PAS_ReplaceFace_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_ReplaceFace_KeyBindText_Right: to replace the face plate.
+Loc_UI_HUD_InstructionCard_PAS_TakeOutVoicebox_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_TakeOutVoicebox_KeyBindText_Right: to take the voicebox out of Freddy's throat.
+Loc_UI_HUD_InstructionCard_FazerBlaster_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_FazerBlaster_KeyBindText_Right: to zap bots in the eyes and stun them.
+Loc_UI_HUD_InstructionCard_SprintStamina_KeyBindText_Left: Hold
+Loc_UI_HUD_InstructionCard_SprintStamina_KeyBindText_Right: to run.
+Loc_UI_HUD_InstructionCard_PAS_OpenArm_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_OpenArm_KeyBindText_Right: to open the arm casing.
+Loc_UI_HUD_InstructionCard_PAS_ReplaceBowtie_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_ReplaceBowtie_KeyBindText_Right: to replace bowtie.
+Loc_UI_HUD_InstructionCard_PAS_TakeOffBowtie_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_TakeOffBowtie_KeyBindText_Right: to take off the bowtie.
+Loc_UI_HUD_InstructionCard_NoiseMaker_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_NoiseMaker_KeyBindText_Right: to knock objects over and distract bots.
+Loc_Instruction_Action_Exit: Exit
+Loc_UI_HUD_InstructionCard_PAS_TakeOutClaws_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_TakeOutClaws_KeyBindText_Right: to pull the claws out of the casing.
+Loc_UI_HUD_InstructionCard_PAS_ReplaceChestPlate_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_ReplaceChestPlate_Right: to replace chest plate.
+Loc_UI_HUD_InstructionCard_SwitchItems_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_SwitchItems_KeyBindText_Middle: and
+Loc_UI_HUD_InstructionCard_SwitchItems_KeyBindText_Right: to switch between items.
+Loc_UI_HUD_InstructionCard_FazWatch_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_FazWatch_KeyBindText_Right: to bring up the Faz Watch.
+Loc_UI_HUD_InstructionCard_RechargeFlashlight_KeyBindText_Left: Press and hold
+Loc_UI_HUD_InstructionCard_RechargeFlashlight_KeyBindText_Right: to recharge your flashlight.
+Loc_UI_HUD_InstructionCard_FlashBeacon_KeyBindText_Stun_Left: Press
+Loc_UI_HUD_InstructionCard_FlashBeacon_KeyBindText_Stun_Right: to stun any bots in the surrounding area.
+Loc_UI_HUD_InstructionCard_FlashBeacon_KeyBindText_Escape_Left: Press
+Loc_UI_HUD_InstructionCard_FlashBeacon_KeyBindText_Escape_Right: when jump scared to escape.
+Loc_UI_HUD_InstructionCard_SaveStation_KeyBindText_Right: to save your progress
+Loc_UI_HUD_InstructionCard_SaveStation_KeyBindText_Left: Press and hold
+Loc_UI_HUD_InstructionCard_PAS_TakeOffBowtie_Content: Click on the bowtie to take it off.
+Loc_UI_HUD_InstructionCard_PAS_TakeOutVoicebox_Content: Click on the voicebox to take it out of Freddy's throat.
+Loc_UI_HUD_InstructionCard_PAS_TakeOutEyes_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_TakeOutEyes_KeyBindText_Right: to take the eyes out of Freddy's face.
+Loc_UI_HUD_InstructionCard_PAS_TakeOutEyes_Content01: Click on the eyes to take them out of Freddy's face.
+Loc_UI_HUD_InstructionCard_Stealth_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_Stealth_KeyBindText_Right: to crouch.
+Loc_UI_HUD_InstructionCard_PAS_TakeOffChestPlate_Content01: Click on the chest plate to take it off.
+Loc_UI_HUD_InstructionCard_PAS_TakeOffChestPlate_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_TakeOffChestPlate_KeyBindText_Right: to take off the chest plate.
+Loc_UI_HUD_InstructionCard_HidingPlaces_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_HidingPlaces_KeyBindText_Right: when next to a hiding place to escape the bots.
+Loc_UI_HUD_InstructionCard_PAS_OpenArm_Content01: Click on the arm to open the casing.
+Loc_UI_HUD_InstructionCard_Crouch_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_Crouch_KeyBindText_Right: to crouch.
+Loc_UI_HUD_InstructionCard_PAS_PutInEyes_Content01: Click on the eyes to put them into Freddy's face.
+Loc_UI_HUD_InstructionCard_PAS_PutInEyes_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_PAS_PutInEyes_KeyBindText_Right: to put the eyes in Freddy's face.
+Loc_UI_HUD_InstructionCard_PAS_TakeOutClaws_Content01: Click on the claws to pull them out of the casing.
+Loc_UI_HUD_InstructionCard_CallFreddy_KeyBindText_Left: Press
+Loc_UI_HUD_InstructionCard_CallFreddy_KeyBindText_Right: to call Freddy for help.
+Loc_UI_HUD_InstructionCard_CheckTheCameras_KeyBindText_Left: Use
+Loc_UI_HUD_InstructionCard_CheckTheCameras_KeyBindText_Right: to switch between cameras on the map.
+Loc_UI_HUD_InstructionCard_PAS_TakeOffFaceplate_Content01: Click on the nose to take it off.
+Loc_Instruction_PartsAndService_FinishUpgrade: FINISH UPGRADE
+Loc_UI_HUD_InstructionCard_FinishUpgrade: Finish the procedure by using the access computer.
+Loc_Instruction_PartsAndService_RoxyUpgrade_Description: Use Roxy's Eyes to see things no one else can.
+Loc_Instruction_PartsAndService_MontyUpgrade_Description: Use Monty's Claws to open special gates scattered through the Pizzaplex. 
+Loc_Instruction_PartsAndService_ChicaUpgrade_Description:  to use Chica's Voice Box to stun the other animatronics.
+Loc_Instruction_PartsAndService_RoxyEyes: ROXY'S EYES
+Loc_Instruction_PartsAndService_ChicaVoiceBox: CHICA'S VOICE BOX
+Loc_Instruction_PartsAndService_MontyClaws: MONTY'S CLAWS
+Loc_Instruction_TrashSmasher_PlaceMontyMysteryMix: Place Monty Mystery Mix
+Loc_UI_HUD_InstructionCard_ExitToExcape_Title: Use an exit to escape the Pizzaplex!
+Loc_UI_HUD_InstructionCard_ExitToExcape_Bottom: But be warned: the recharge stations are offline, so they cannot protect you.

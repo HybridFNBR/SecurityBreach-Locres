@@ -1,0 +1,148 @@
+Loc_Mission_ChicaBeak: Chica's Beak
+Loc_Mission_ChicaBeak_Task_00_Title: Access the Sewer
+Loc_Mission_ChicaBeak_Task_01_Title: Turn the generators on ({Counter}/{MaxCounter})
+Loc_Mission_ChicaBeak_Task_02_Title: Enter Staffbot Silo
+Loc_Mission_ChicaBeak_Task_03_Title: Upgrade Freddy in Parts and Service
+Loc_Mission_DJMusicMan_Task_00_Title: Reboot the West Arcade - DJ booth
+Loc_Mission_DJMusicMan_Task_01_Title: Reset last breaker at the end of maintenance hall
+Loc_Mission_DJMusicMan_Task_02_Title: Reset 3 breakers scattered across West Arcade ({Counter}/{MaxCounter})
+Loc_Mission_EscapeDaycare: Escape The Daycare
+Loc_Mission_EscapeDaycare_Task_00_Title: Escape the daycare with Freddy
+Loc_Mission_EscapeDaycare_Task_01_Title: Get to the Re-charge station
+Loc_Mission_FazerBlast: Fazer Blast
+Loc_Mission_FazerBlast_Task_00_Title: Use the Party Pass to access Fazer Blast
+Loc_Mission_FazerBlast_Task_01_Title: Receive the Fazerblaster by winning Fazerblast!
+Loc_Mission_FazerBlast_Task_02_Title: Pick up your prize in the Prize Counter of Fazerblast
+Loc_Mission_DumpsterDiving: Dumpster Diving
+Loc_Mission_FindFreddy: Find Freddy
+Loc_Mission_FindFreddy_Task_00_Title: Return to Freddy
+Loc_Mission_FreeFreddy: Free Freddy
+Loc_Mission_FreeFreddy_Task_00_Title: Find Button
+Loc_Mission_FreeFreddy_Task_01_Title: Release Freddy from his room
+Loc_Mission_FreeFreddy_Task_02_Title: Find a Freddy Photo Pass
+Loc_Mission_FreeFreddy_Task_03_Title: Use Photo Pass to release Freddy
+Loc_Mission_GetOut: Get Out
+Loc_Mission_GetOut_2_Task_00_Title: Hide
+Loc_Mission_GetOut_2_Task_01_Title: Find the main exit
+Loc_Mission_GetOut_Task_00_Title: Get to the main lobby of the Pizzaplex
+Loc_Mission_GetOut_Task_01_Title: Find the main lobby without Freddy
+Loc_Mission_GetOut_Task_02_Title: Connect to the security system
+Loc_Mission_GetOut_Task_03_Title: Find a safe path to the Main Entrance
+Loc_Mission_StopRoxy_Task_00: Find out how to stop Roxy in Roxy Raceway
+Loc_Mission_StopRoxy: Stop Roxy
+Loc_Mission_RepairRobotHead: Repair Robot Head
+Loc_Mission_KitchenOffice: Kitchen Office
+Loc_Mission_KitchenOffice_Task_00_Title: Make Crust
+Loc_Mission_KitchenOffice_Task_01_Title: Add Sauce
+Loc_Mission_KitchenOffice_Task_02_Title: Add Cheese
+Loc_Mission_KitchenOffice_Task_03_Title: Add Meat
+Loc_Mission_KitchenOffice_Task_04_Title: Add Not Meat
+Loc_Mission_KitchenOffice_Task_05_Title: Bake Pizza
+Loc_Mission_KitchenOffice_Task_06_Title: Take Pizza
+Loc_Mission_LetThereBeLight: Let There Be Light
+Loc_Mission_LetThereBeLight_Task_00_Title: Take the flashlight
+Loc_Mission_LetThereBeLight_Task_01_Title: Turn the generators on ({Counter}/{MaxCounter})
+Loc_Mission_LetThereBeLight_Task_02_Title: Meet Freddy outside the Daycare
+Loc_Mission_LoadingDock: Loading Dock
+Loc_Mission_LoadingDock_Task_00_Title: Find the Loading Dock under the 1st floor Food Court
+Loc_Mission_LoadingDock_Task_01_Title: Enter the vent near Salads and Sides
+Loc_Mission_LoadingDock_Task_02_Title: Distract Chica and get to the Load Dock through the Kitchen
+Loc_Mission_LoadingDock_Task_03_Title: Get a security badge from the Kitchen Office
+Loc_Mission_LoadingDock_Task_04_Title: Locate the Loading Dock controls
+Loc_Mission_LostAndFound: Lost And Found
+Loc_Mission_MontyClaws: Monty's Claws
+Loc_Mission_MontyClaws_Task_00_Details: Use the cannons
+Loc_Mission_MontyClaws_Task_00_Title: Fill Splash Bucket
+Loc_Mission_MontyClaws_Task_01_Details: Use the button under the flickering light
+Loc_Mission_MontyClaws_Task_01_Title: Dump Splash Bucket
+Loc_Mission_MontyClaws_Task_02_Title: Collect Monty's Claws
+Loc_Mission_NoReEntry: No Re-entry
+Loc_Mission_NoReEntry_Task_00_Title: Upgrade Comp Pass at Upgrade Machine
+Loc_Mission_NoReEntry_Task_01_Title: Hack the Upgrade Machine
+Loc_Mission_NoReEntry_Task_02_Title: Use Daycare Pass to get into Daycare
+Loc_Mission_PlanA: Plan A
+Loc_Mission_PlanA_Task_00_Details: Try to survive the night until the main doors open at 6AM
+Loc_Mission_PlanA_Task_00_Title: The main doors open at 6AM
+Loc_Mission_PlanA_Task_01_Details: The main doors are now open! Head to the main entrance quickly!
+Loc_Mission_PlanA_Task_01_Title: The doors are open!
+Loc_Mission_PlanC_Task_00_Details: The Prize counter is on the third level above the main entrance. You should be able to escape there.
+Loc_Mission_PlanC_Task_00_Title: Find the prize counter security office on the 3rd floor
+Loc_Mission_PlanC_Task_01_Details: Look for the door with a security badge symbol on it.
+Loc_Mission_PlanC_Task_01_Title: Find the door to the Security Office
+Loc_Mission_PrizeCounter: Prize Counter
+Loc_Mission_RoxyEyes: Upgrade Freddy
+Loc_Mission_RoxyEyes_Task_00_Title: Get Roxy's Eyes
+Loc_Mission_RoxyEyes_Task_01_Title: Upgrade Freddy with Roxy's Eyes
+Loc_Mission_SlideIntoFun: Slide Into Fun
+Loc_Mission_SlideIntoFun_Task_00_Title: Find a Security Desk  in the Daycare
+Loc_Mission_SlideIntoFun_Task_01_Title: Make a distraction
+Loc_Mission_SlideIntoFun_Task_02_Title: Get the Security Badge from Security Desk
+Loc_Mission_Survival: Collect Gifts
+Loc_Mission_Survival_Task_00_Title: Pink {PinkCount}/{PinkMax} Yellow {YellowCount}/{YellowMax} Green {GreenCount}/{GreenMax} Red {RedCount}/{RedMax} Purple {PurpleCount}/{PurpleMax} Gold {GoldCount}/{GoldMax}
+Loc_Mission_TakeMap: Free Map
+Loc_Mission_TakeMap_Task_00_Title: Collect the Map
+Loc_Mission_RehearsalSpace: Rehearsal Space
+Loc_Mission_Backstage: Backstage
+Loc_Mission_Showtime: Showtime
+Loc_Mission_RehearsalSpace_Task_00: Find a backstage pass in the rehearsal room
+Loc_Mission_Backstage_Task_00: Find Lift Controls in Backstage Office
+Loc_Mission_Backstage_Task_01: Help Freddy Through Locked Doors
+Loc_Mission_Backstage_Task_02: Escape Through Vent
+Loc_Mission_LostAndFound_Task_00_Title: Escape Lost And Found
+Loc_Mission_LostAndFound_Task_00_Details: Use screwdriver to open vents
+Loc_Mission_LostAndFound_Task_01: Get to the Atrium before Vanny finds you
+Loc_Mission_LostAndFound_Task_02: Use stack of boxes to find Freddy in Raceway sub lobby
+Loc_Mission_Showtime_Task_00: Follow Freddy to the Main Stage
+Loc_Mission_Showtime_Task_01: Use Disk on the Sound Booth to activate Main Stage
+Loc_Mission_Showtime_Task_02: Use the button on the Main Stage
+Loc_Mission_Showtime_Task_03: Get to the Re-charge station
+Loc_Mission_PlanC_Task_02_Title: Find another way into the Security Office
+Loc_Mission_PlanC_Task_03_Title: Take the security badge from the Security Office
+Loc_Mission_PlanC_Task_04_Title: Survive until Freddy shuts down the alarm
+Loc_Mission_PlanC_Task_05_Title: Find the VIP room at the back of the Prize Counter
+Loc_Mission_PlanC_Task_07_Title: Use the Prize Counter elevator
+Loc_Mission_PlanC_Task_05_Details: That security bot wont let you pass unless you are a VIP member. If you collect enough prizes he may let you in.
+Loc_Mission_PartsandService: Parts and Service
+Loc_Mission_PartsandService_Task_00_Title: Find a way into Parts and Service
+Loc_Mission_MontyGolf: Monty Golf
+Loc_Mission_MontyGolf_Task_00_Title: Use the Party Pass to find the Faz Camera in Monty Golf
+Loc_Mission_StopRoxy_Task_01: Find a working Racekart to run over Roxy
+Loc_Mission_StopRoxy_Task_02: Find missing robot head in Roxy Raceway
+Loc_Mission_RepairRobotHead_Task_00: Find Dance Pass and bring robot head to West Arcade
+Loc_Mission_StopRoxy_Task_03: Install head on the kart in Roxy Raceway
+Loc_Mission_RepairRobotHead_Task_01: Bring the robot head to the Security Office
+Loc_Mission_RepairRobotHead_Task_02: Repair robot head
+Loc_Mission_RoxysWeakness: Roxy's Weakness
+Loc_Mission_MontyMysteryMix: Monty Mystery Mix
+Loc_Mission_PowerOn: Power On
+Loc_Mission_OfficeToOffice: Office to Office
+Loc_Mission_OfficeToOffice_0_Title: Investigate Fazerblast Office
+Loc_Mission_PowerOn_0_Title: Turn on the generator for the Trash Compactor
+Loc_Mission_MysteryMix_0_Title: Find the Monty Mystery Mix in Bonnie Bowl
+Loc_Mission_MysteryMix_1_Title: Use Monty Mystery Mix in Kitchen Compactor
+Loc_Mission_DumpsterDiving_0_Title: Find out how to decommission Chica
+Loc_Mission_DumpsterDiving_1_Title: Lure Chica into the Kitchen Trash Compactor
+Loc_Mission_DumpsterDiving_2_Title: Get Voice Box from Chica and escape
+Loc_Mission_DumpsterDiving_3_Title: Upgrade Freddy in Parts and Service
+Loc_Mission_Moonlight_Serenade: Moonlight Serenade
+Loc_Mission_Moonlight_Serenade_0: Get to the recharge station!
+Loc_Mission_PartsandService_Task_01_Title: Complete Freddy's Maintenance.
+Loc_Mission_PartyPass_00_Title: Use service elevators up to Rockstar Row
+Loc_Mission_PartyPass_01_Title: Find the Party Pass in Chica's Green Room
+Loc_Mission_PartyPass: Party Pass
+Loc_Mission_ThrillSeeker: Thrill Seeker
+Loc_Mission_ThrillSeeker_Task_00_Title: Find out how to decommission Monty
+Loc_Mission_ThrillSeeker_Task_01_Title: Investigate the vent in Mazercise
+Loc_Mission_ThrillSeeker_Task_02_Title: Find Mazercise Control Key in the Daycare Theater
+Loc_Mission_ThrillSeeker_Task_03_Title: Use Mazercise controls to move the walls and access the vent
+Loc_Mission_ThrillSeeker_Task_04_Title: Defeat Monty and take his claws
+Loc_Mission_ThrillSeeker_Task_05_Title: Upgrade Freddy in Parts and Service
+Loc_Mission_Warehouse: Warehouse
+Loc_Mission_Warehouse_Task_00_Title: Get a security badge from the Warehouse Office.
+Loc_Mission_Warehouse_Task_01_Title: Return to Parts and Service
+Loc_Mission_LookatFazwatch_Title: Look at Fazwatch
+Loc_Mission_LookatFazwatch_Description: Observe security cameras on Fazwatch
+Loc_Mission_GetOut!: Get Out!
+Loc_Mission_GetOut!_Task_00_Title: Escape the Pizzaplex!
+Loc_Mission_RechargeTime: Recharge Time!
+Loc_Mission_RechargeTime_00_Title: Get to the recharge station!

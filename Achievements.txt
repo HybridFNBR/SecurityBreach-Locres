@@ -1,0 +1,58 @@
+Loc_Achievement_0_NAME: TROPHY TIME
+Loc_Achievement_0_DESC: Get all other trophies in the game.
+Loc_Achievement_1_NAME: SHATTERED DREAMS
+Loc_Achievement_1_DESC: Shatter all the animatronics
+Loc_Achievement_2_NAME: UNDER PAR
+Loc_Achievement_2_DESC: Get a low score on golf
+Loc_Achievement_3_NAME: VERY IMPORTANT PERSON
+Loc_Achievement_3_DESC: Find all prize boxes in the game
+Loc_Achievement_4_NAME: SURPRISE
+Loc_Achievement_4_DESC: Get jump scared
+Loc_Achievement_5_NAME: SUPERSTAR
+Loc_Achievement_5_DESC: Survive until 6:00 am
+Loc_Achievement_6_NAME: SECURITY BREACHED
+Loc_Achievement_6_DESC: Get the highest security access possible
+Loc_Achievement_7_NAME: PARTY TIME
+Loc_Achievement_7_DESC: Find a party pass.
+Loc_Achievement_8_NAME: DODGE AND WEAVE
+Loc_Achievement_8_DESC: Successfully evade a bot in pursuit
+Loc_Achievement_9_NAME: UP UP AND AWAY
+Loc_Achievement_9_DESC: Maintenance log: Balloon World - Out of Order
+Loc_Achievement_10_NAME: NO ROOM FOR DESSERT
+Loc_Achievement_10_DESC: Maintenance log: Feeding Frenzy - Out of Order
+Loc_Achievement_11_NAME: A DOUBLE EDGED SWORD
+Loc_Achievement_11_DESC: Maintenance log: Princess Quest 2 - Out of order
+Loc_Achievement_12_NAME: SAY CHEESE
+Loc_Achievement_12_DESC: Stun 4 bots with a single camera flash
+Loc_Achievement_13_NAME: SUGAR HIGH
+Loc_Achievement_13_DESC: Complete the Fizzy Faz Challenge
+Loc_Achievement_14_NAME: HECKLER
+Loc_Achievement_14_DESC: Zap a performer in the theater
+Loc_Achievement_15_NAME: ARE YOU HAVING FUN YET?
+Loc_Achievement_15_DESC: Get the GOOD ending
+Loc_Achievement_16_NAME: OPA!
+Loc_Achievement_16_DESC: Break at least 10 dishes.
+Loc_Achievement_17_NAME: HAZARD PAY
+Loc_Achievement_17_DESC: Find the source of Roxy Raceway's problems
+Loc_Achievement_18_NAME: SPEAK NO EVIL
+Loc_Achievement_18_DESC: Shatter Chica
+Loc_Achievement_19_NAME: SEE NO EVIL
+Loc_Achievement_19_DESC: Shatter Roxy
+Loc_Achievement_20_NAME: CLAW NO EVIL
+Loc_Achievement_20_DESC: Shatter Monty
+Loc_Achievement_21_NAME: I AM NOT ME
+Loc_Achievement_21_DESC: Freddy is shattered
+Loc_Achievement_22_NAME: FALSE ALARM
+Loc_Achievement_22_DESC: Escape the Prize counter office
+Loc_Achievement_23_NAME: WUB WUB WUB
+Loc_Achievement_23_DESC: Escape the West Arcade
+Loc_Achievement_24_NAME: SLEEPOVER
+Loc_Achievement_24_DESC: Escape the Daycare
+Loc_Achievement_25_NAME: PIZZA PARTY
+Loc_Achievement_25_DESC: Make a pizza!
+Loc_Achievement_26_NAME: LAZER ACE
+Loc_Achievement_26_DESC: Beat Fazer Blast
+Loc_Achievement_27_NAME: LOST AND FOUND
+Loc_Achievement_27_DESC: Find all collectible messages
+Loc_Achievement_28_NAME: HIDE AND SEEK MASTER
+Loc_Achievement_28_DESC: Never use a hiding spot

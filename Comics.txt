@@ -1,0 +1,28 @@
+Loc_Comics_GregoryinAlley_0001: Later
+Loc_Comics_GregoryinAlley_0002: Missing Local Residents Continue to Disappear
+Loc_Comics_FreddyGregoryDriveAway_0001: Vrooooom! Vroooooom!
+Loc_Comics_FreddyGregoryDriveAway_0002: Hi! Please take this maaaaaaaa-
+Loc_Comics_FreddyGregoryDriveAway_0003: Come back real soon!
+Loc_Comics_FreddyGregoryDriveAway_0004: Gregory... My battery...
+Loc_Comics_FreddyGregoryDriveAway_0005: Freddy!
+Loc_Comics_FreddyGregoryDriveAway_0006: Scrrrrrch!
+Loc_Comics_FreddyGregoryDriveAway_0007: Zap! Kraak! Zaaap!
+Loc_Comics_FreddyGregoryDriveAway_0008: Gregory!
+Loc_Comics_FreddyGregoryDriveAway_0009: New Face of Fazbear Entertainment
+Loc_Comics_FreddyGregoryontheRoof_0001: Fire Escape
+Loc_Comics_FreddyGregoryontheRoof_0002: Time to end this.
+Loc_Comics_FreddyGregoryontheRoof_0003: Flick
+Loc_Comics_FreddyGregoryontheRoof_0004: Fwooosh
+Loc_Comics_FreddyGregoryontheRoof_0005: Vanny! I can see you now! I have new eyes!
+Loc_Comics_FreddyGregoryontheRoof_0006: Freddy!
+Loc_Comics_FreddyGregoryontheRoof_0007: Goodbye Gregory.
+Loc_Comics_FreddyGregoryontheRoof_0008: Mega Pizzaplex burns to the ground Recall on flammable Fazbear toys
+Loc_Comics_VannyRedeemed_0001: Let's go superstar!
+Loc_Comics_VannyDecommissioned_0001: Hee hee hee hee hee hee
+Loc_Comics_VannyDecommissioned_0002: Decommission Vanny!
+Loc_Comics_VannyDecommissioned_0003: No! No no no no no no
+Loc_Comics_VannyDecommissioned_0004: AAAAAAAAAAAAAAAA
+Loc_Comics_VannyDecommissioned_0005: Freddy!
+Loc_Comics_VannyDecommissioned_0006: Gregory
+Loc_Comics_VannyDecommissioned_0007: You're my superstar.
+Loc_Comics_VannyDecommissioned_0008: Fazbear Entertainment Closes due to Health Concerns Plans to reopen next Spring!

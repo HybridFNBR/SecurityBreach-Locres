@@ -1,0 +1,127 @@
+Loc_BalloonBoy_UI_HUD_Gameplay_Area: Area
+Loc_BalloonBoy_UI_HUD_Gameplay_ClickExpandsBalloons: CLICK TO EXPAND BALLOONS
+Loc_BalloonBoy_UI_HUD_Gameplay_HighScore: HI-SCORE
+Loc_BalloonBoy_UI_HUD_Gameplay_Score: SCORE
+Loc_BalloonBoy_UI_HUD_LifeBar_1UP: 1UP
+Loc_BalloonBoy_UI_Menus_GameOver_Restart: RESTART
+Loc_BalloonBoy_UI_Menus_GameOver_Score: SCORE:
+Loc_BalloonBoy_UI_Menus_GameOver_Title: TITLE
+Loc_BalloonBoy_UI_Menus_Pause_Resume: RESUME
+Loc_BalloonBoy_UI_Menus_Pause_ToTitle: TITLE
+Loc_BalloonBoy_UI_Menus_Title_HighScore:  HI-SCORE:
+Loc_BalloonBoy_UI_Menus_Title_MainMenu: Main Menu
+Loc_BalloonBoy_UI_Menus_Title_Start: START
+Loc_CFF_UI_HUD_GameOver: GAME OVER
+Loc_CFF_UI_HUD_Go: GO!
+Loc_CFF_UI_HUD_LetsEat: LET'S EAT!
+Loc_CFF_UI_HUD_Power: POWER
+Loc_CFF_UI_HUD_Score: SCORE:
+Loc_CFF_UI_HUD_Wave: WAVE:
+Loc_CFF_UI_HUD_WaveComplete: Wave Complete!
+Loc_CFF_UI_Menus_GameOver_Next: NEXT
+Loc_CFF_UI_Menus_GameOver_Restart: RESTART
+Loc_CFF_UI_Menus_GameOver_Score: SCORE
+Loc_CFF_UI_Menus_GameOver_Title: GAME OVER
+Loc_CFF_UI_Menus_GameOver_ToMainMenu: MAIN MENU
+Loc_CFF_UI_Menus_Pause_Resume: RESUME
+Loc_CFF_UI_Menus_Pause_ToTitle: TITLE
+Loc_MiniGolf_UI_HUD_Power: Power
+Loc_MiniGolf_UI_HUD_Strokes: Strokes:
+Loc_MiniGolf_UI_Menus_ScoreBoard_Hole: Hole
+Loc_MiniGolf_UI_Menus_ScoreBoard_Par: Par
+Loc_MiniGolf_UI_Menus_ScoreBoard_Score: Score
+Loc_MiniGolf_UI_Menus_ScoreBoard_Strokes: Strokes
+Loc_MiniGolf_UI_Menus_ScoreBoard_Total: Total
+Loc_PrincessQuest2_UI_HUD_ASmallKey: A small key. This must open something...
+Loc_PrincessQuest2_UI_HUD_DoorLocked: This door appears to be locked.
+Loc_PrincessQuest2_UI_HUD_DoorShut: The door is shut.
+Loc_PrincessQuest2_UI_HUD_Heart_00: Oh, how nice!
+Loc_PrincessQuest2_UI_HUD_Heart_01: What is this feeling...?
+Loc_PrincessQuest2_UI_HUD_Heart_02: I feel... strange
+Loc_PrincessQuest2_UI_HUD_Heart_03: ...
+Loc_PrincessQuest2_UI_HUD_Heart_04: ...
+Loc_PrincessQuest2_UI_HUD_Heart_05: ...
+Loc_PrincessQuest2_UI_HUD_SomethingNotRight: Something is not right...
+Loc_PrincessQuest2_UI_HUD_StrangeKey: A strange key. I wonder what this opens?
+Loc_FazerBlast_UI_HUD_Feedback_Amazing: Amazing!
+Loc_FazerBlast_UI_HUD_Feedback_FiveInARow: 5 In a Row!
+Loc_FazerBlast_UI_HUD_Feedback_GoodShot: Good Shot!
+Loc_FazerBlast_UI_HUD_Feedback_GreatShot: Great Shot!
+Loc_FazerBlast_UI_HUD_Feedback_Nice: Nice!
+Loc_FazerBlast_UI_HUD_Feedback_SkillShot: Skill Shot!
+Loc_FazerBlast_UI_HUD_FinalScore_DamageDone: Damage Done: 
+Loc_FazerBlast_UI_HUD_FinalScore_FinalScore: Final Score:
+Loc_FazerBlast_UI_HUD_FinalScore_Title: FINAL SCORE
+Loc_FazerBlast_UI_HUD_FinalScore_TotalHits: Total Hits: 
+Loc_FazerBlast_UI_HUD_GameOver: GAME OVER
+Loc_FazerBlast_UI_HUD_MissionGPS_ShootAllEnemies: Shoot All Enemies!
+Loc_FazerBlast_UI_HUD_Score: SCORE
+Loc_BalloonBoy_UI_Menus_GameOver_HighScore: HI-SCORE:
+Loc_BalloonBoy_UI_Menus_GameOver_NewHighScore: NEW HI-SCORE!
+Loc_BalloonBoy_UI_Menus_GameOver_Quit: QUIT
+Loc_MinigameActivators_BalloonBoy: Balloon Boy
+Loc_MinigameActivators_ChicasFeedingFrenzy: Chicas Feeding Frenzy
+Loc_MinigameActivators_MiniGolfFull: MiniGolf Full
+Loc_MinigameActivators_MiniGolfCourse1: MiniGolf Course 1
+Loc_MinigameActivators_MiniGolfCourse2: MiniGolf Course 2
+Loc_MinigameActivators_PrincessQuestAct1: Princess Quest Act 1
+Loc_MinigameActivators_PrincessQuestAct2: Princess Quest Act 2
+Loc_MinigameActivators_PrincessQuestAct3: Princess Quest Act 3
+Loc_MinigameActivators_MiniGolfFull_Description: All MiniGolf holes (playable as internally sorted).
+Loc_PrincessQuest2_UI_Menus_GameOver_GameOver: Game Over
+Loc_PrincessQuest2_UI_Menus_GameOver_Continue: Continue?
+Loc_PrincessQuest2_UI_Menus_GameOver_PressEnter: Press Enter
+Loc_PrincessQuest2_UI_Menus_Title_PrincessQuest: Princess Quest
+Loc_PrincessQuest2_UI_Menus_Title_WorkingTitle: (Working Title)
+Loc_PrincessQuest2_UI_Menus_Title_PressEnter: Press Enter
+Loc_RoxyRacer_UI_Scoreboard_Position: Positon
+Loc_RoxyRacer_UI_Scoreboard_Best: Best
+Loc_RoxyRacer_UI_Scoreboard_Total: Total
+Loc_RoxyRacer_UI_RacerOverlay_Lap1: Lap 1
+Loc_RoxyRacer_UI_RacerOverlay_1st: 1st
+Loc_RoxyRacer_UI_RacerOverlay_Last: Last
+Loc_RoxyRacer_UI_RacerOverlay_Best: Best
+Loc_Bowling_UI_HUD_PressQToSkip: Press Q to skip
+Loc_RoxyRacer_UI_Countdown_Go: GO!
+Loc_BalloonBoy_UI_HUD_Glitch_Text_0: hello?
+Loc_BalloonBoy_UI_HUD_Glitch_Text_1: come meet my friends
+Loc_BalloonBoy_UI_HUD_Glitch_Text_2: he made me do it
+Loc_BalloonBoy_UI_HUD_FloatingText_1UP: 1 UP
+Loc_BalloonBoy_UI_Menus_Title_Copyright: (C) FAZBEAR ENTERTAINMENT LLC
+Loc_MiniGolf_UI_Menus_ScoreBoard_Courses_FullVersion: Full Version
+Loc_MiniGolf_UI_Menus_ScoreBoard_Courses_Course1: Course 1
+Loc_MiniGolf_UI_Menus_ScoreBoard_Courses_Course2: Course 2
+Loc_MiniGolf_ParName_00_OutOfStrokes: Out Of Strokes
+Loc_MiniGolf_ParName_01_OverPar: Over Par
+Loc_MiniGolf_ParName_02_QuadrupleBogey: Quadruple Bogey
+Loc_MiniGolf_ParName_03_TripleBogey: Triple Bogey
+Loc_MiniGolf_ParName_04_DoubleBogey: Double Bogey
+Loc_MiniGolf_ParName_05_Bogey: Bogey
+Loc_MiniGolf_ParName_06_Par: Par
+Loc_MiniGolf_ParName_07_Birdie: Birdie
+Loc_MiniGolf_ParName_08_Eagle: Eagle
+Loc_MiniGolf_ParName_09_Albatross: Albatross
+Loc_MiniGolf_ParName_10_Condor: Condor
+Loc_MiniGolf_ParName_11_UnderPar: Under Par
+Loc_MiniGolf_ParName_12_HoleInOne: Hole In One
+Loc_MiniGolf_Format_Par_UnderOver: {ParNumber} {ParText}
+Loc_MiniGolf_UI_MasterCam_FormatText: {ZoomAmount}X
+Loc_CFF_Door_FormatText_DoorCost: x{DoorCost}
+Loc_CFF_UpgradeStation_FormatText: {UpgradeType} {UpgradeCost}
+Loc_CFF_UpgradeStation_Type_Speed: Speed
+Loc_CFF_UpgradeStation_Type_Damage: Damage
+Loc_CFF_UpgradeStation_Type_Coins: Coins
+Loc_CFF_UpgradeStation_Type_Power: Power
+Loc_FazerBlast_UI_HUD_ScoreUpdate_Format_Negative: {ScoreChange}
+Loc_FazerBlast_UI_HUD_ScoreUpdate_Format_Positive: +{ScoreChange}
+Loc_RoxyRacer_UI_HUD_ScoreBoard_RacerPosition_Format: {RacerPosition}{OrdinalIndicator}{IsSelfIndicator}
+Loc_RoxyRacer_UI_HUD_ScoreBoard_RacerPosition_OrdinalIndicator_1st: ST
+Loc_RoxyRacer_UI_HUD_ScoreBoard_RacerPosition_OrdinalIndicator_2nd: ND
+Loc_RoxyRacer_UI_HUD_ScoreBoard_RacerPosition_OrdinalIndicator_3rd: RD
+Loc_RoxyRacer_UI_HUD_ScoreBoard_RacerPosition_OrdinalIndicator_Default: TH
+Loc_RoxyRacer_UI_HUD_ScoreBoard_RacerPosition_IsSelfIndicator: *
+Loc_MiniGameActivators_FormatText: Play {MiniGameName}
+Loc_PrincessQuest2_UI_HUD_OldManStart: You are alive. That is good. Take the sword of light and go.
+Loc_PrincessQuest2_UI_HUD_OldManEnd: Congratulation! Your quest is done. Time to sleep.
+Loc_MiniGolf_Display_HoleIndex_FormatText: {hole} {index}
+Loc_MiniGolf_Display_ParNumber_FormatText: {Par} {Number}

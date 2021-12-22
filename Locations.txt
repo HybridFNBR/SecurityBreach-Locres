@@ -1,0 +1,23 @@
+Loc_Location_Freezer: Freezer
+Loc_Location_LaundryHallway: Laundry Hallway
+Loc_Location_LaundryFoldingRoom: Folding Room
+Loc_Location_Kitchen: Kitchen
+Loc_Location_BreakRoom: Break Room
+Loc_Location_MixingRoom: Mixing Room
+Loc_Location_Laundry: Laundry
+Loc_Location_LoadingDock: Loading Dock
+Loc_Location_LockerRoom: Locker Room
+Loc_Location_Hallway: Hallway
+Loc_Location_Entry: Entry
+Loc_Location_OfficeEntry: Office Entry
+Loc_Location_Storage: Storage
+Loc_Location_LiquidStorage: Liquid Storage
+Loc_Location_Arcade_East: East Arcade
+Loc_Location_Daycare: Daycare
+Loc_Location_Atrium: Atrium
+Loc_Location_Arcade_West: West Arcade
+Loc_Location_UndergroundEntrance: Underground Entrance
+Loc_Location_UndergroundExit: Underground Exit
+Loc_Location_Lobby: Lobby
+Loc_Location_PrizeCounter: Prize Counter
+Loc_Location_Backstage: Backstage
